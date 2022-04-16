@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui"
+	xmlns:f="http://xmlns.jcp.org/jsf/core">
+
+<h:head>
+
+	<title>Student System for elective courses</title>
+	<style type="text/css">
+    .ui-panelgrid.showcase-text-align-center .ui-grid-responsive .ui-panelgrid-cell {
+        text-align: center;
+    }
+
+    .customPanelGrid .ui-panelgrid-content {
+        align-items: center;
+    }
+</style>
+
+</h:head>
+
+<h:body>
+<div class="card" id="info">
+    <p:panelGrid columns="2">
+              	<h:graphicImage  
+   library="images" name="#{homeView.user.facultyNumber}.jpeg"
+   width="100px"/>
+   
+   <h:form id="form">
+    <p:commandButton id="logoutButton" action="#{homeView.logout}"
+					value="Изход" ajax="true" update="form" style="float: right;">
+				</p:commandButton>
+</h:form>
+   
+   
+
+
+        <h:outputText value="Име:"/>
+        <h:outputText value="#{homeView.user.firstName} #{homeView.user.lastName}"/>
+
+        <h:outputText rendered="#{homeView.user.score != 0.0}" value="Успех:"/>
+        <h:outputText rendered="#{homeView.user.score != 0.0}" value="#{homeView.user.score}"/>
+
+        <h:outputText value="Потребителско име:"/>
+        <h:outputText value="#{homeView.user.userName}"/>
+
+    </p:panelGrid>
+</div>
+
+    <pe:timer
+        timeout="1000"
+        format="HH:mm:ss"/>
+
+<h:button value="Избери избираеми дисциплини" rendered="#{homeView.showCousesButton}" outcome="toCourses"></h:button>
+<h:button value="Статистика за избираеми дисциплини" rendered="#{homeView.showStatistincsButton}" outcome="toStatistics"></h:button>
+<h:button value="Класиране" rendered="#{homeView.showRanking}" outcome="toRanking"></h:button>
+
+				
+</h:body>
+
+
+</html>

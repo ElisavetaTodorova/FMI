@@ -1,0 +1,691 @@
+id;en_name;bg_name
+http://www.wikidata.org/entity/Q1074924;Blaskovo;________
+http://www.wikidata.org/entity/Q1075053;Arkovna;_______
+http://www.wikidata.org/entity/Q1075170;Goren Chiflik;_____ ______
+http://www.wikidata.org/entity/Q1075301;Kamen Dyal;_____ ___
+http://www.wikidata.org/entity/Q1075360;Smirov Dol;______ ___
+http://www.wikidata.org/entity/Q1073421;Vidrar;______
+http://www.wikidata.org/entity/Q1073427;Milkyovtsi;_________
+http://www.wikidata.org/entity/Q1073445;Banishte;______
+http://www.wikidata.org/entity/Q1073531;Dolna Vrabcha;_____ ______
+http://www.wikidata.org/entity/Q1073558;Dolni Romantsi;_____ _______
+http://www.wikidata.org/entity/Q1073625;Belanitsa;________
+http://www.wikidata.org/entity/Q1073669;Boboratsi;________
+http://www.wikidata.org/entity/Q1074149;Dokyovtsi;________
+http://www.wikidata.org/entity/Q1074194;Berende;_______
+http://www.wikidata.org/entity/Q1074214;Gorna Vrabcha;_____ ______
+http://www.wikidata.org/entity/Q1074247;Vidritsa;_______
+http://www.wikidata.org/entity/Q1074288;Dolna Melna;_____ _____
+http://www.wikidata.org/entity/Q1074322;Selishten Dol;_______ ___
+http://www.wikidata.org/entity/Q1074336;Penkyovtsi;_________
+http://www.wikidata.org/entity/Q1074387;Gorni Romantsi;_____ _______
+http://www.wikidata.org/entity/Q1076284;Novo Oryahovo;____ _______
+http://www.wikidata.org/entity/Q1076299;Dolna Lipnitsa;_____ _______
+http://www.wikidata.org/entity/Q1076305;Belyakovets;_________
+http://www.wikidata.org/entity/Q1076372;Nova Shipka;____ _____
+http://www.wikidata.org/entity/Q1076383;Debeli rat;______ ___
+http://www.wikidata.org/entity/Q1076468;Gorni Tanchevtsi;_____ ________
+http://www.wikidata.org/entity/Q1076474;Gorsko Kalugerovo;______ __________
+http://www.wikidata.org/entity/Q1076516;Tutrakantsi;__________
+http://www.wikidata.org/entity/Q1076528;Boychevi kolibi;_______ ______
+http://www.wikidata.org/entity/Q1076550;Balgarsko Slivovo;_________ _______
+http://www.wikidata.org/entity/Q1076568;Blaskovtsi;_________
+http://www.wikidata.org/entity/Q1076621;Bryagovitsa;_________
+http://www.wikidata.org/entity/Q1076660;Voynezha;_______
+http://www.wikidata.org/entity/Q1076677;Dolen Enevets;_____ ______
+http://www.wikidata.org/entity/Q1076689;Gabrovtsi;________
+http://www.wikidata.org/entity/Q1076698;Sladka Voda;______ ____
+http://www.wikidata.org/entity/Q1076718;Radan Voyvoda;_____ _______
+http://www.wikidata.org/entity/Q1076721;Delova mahala;______ ______
+http://www.wikidata.org/entity/Q1076804;Badevtsi;_______
+http://www.wikidata.org/entity/Q1076819;Asenovo;_______
+http://www.wikidata.org/entity/Q1076835;Goren Enevets;_____ ______
+http://www.wikidata.org/entity/Q1076954;Gorna Hadzhiyska;_____ _________
+http://www.wikidata.org/entity/Q1076959;Ilakov Rat;______ ___
+http://www.wikidata.org/entity/Q1076965;Dalgi Pripek;_____ ______
+http://www.wikidata.org/entity/Q1076988;Dolno Shivachevo;_____ ________
+http://www.wikidata.org/entity/Q1077009;Dolni Tanchevtsi;_____ ________
+http://www.wikidata.org/entity/Q1077091;Novo Gradishte;____ _______
+http://www.wikidata.org/entity/Q1077136;Krasno Gradishte;______ _______
+http://www.wikidata.org/entity/Q1077214;Dolni Maryan;_____ _____
+http://www.wikidata.org/entity/Q1077219;Kisyovtsi;________
+http://www.wikidata.org/entity/Q1077238;Dolni Damyanovtsi;_____ _________
+http://www.wikidata.org/entity/Q1077342;Malki Chiflik;_____ ______
+http://www.wikidata.org/entity/Q1077441;Mishemorkov Han;__________ ___
+http://www.wikidata.org/entity/Q1077522;Ovcha Mogila;____ ______
+http://www.wikidata.org/entity/Q1077674;Cherni Dyal;_____ ___
+http://www.wikidata.org/entity/Q1077698;Rusalya;______
+http://www.wikidata.org/entity/Q1077820;General Marinovo;_______ ________
+http://www.wikidata.org/entity/Q1078388;Dolni Boshnyak;_____ ______
+http://www.wikidata.org/entity/Q1078451;Bela;____
+http://www.wikidata.org/entity/Q1078481;Dinkovo;_______
+http://www.wikidata.org/entity/Q1078530;Brankovtsi;_________
+http://www.wikidata.org/entity/Q1078568;Botevo;______
+http://www.wikidata.org/entity/Q1078582;Tsarski Izvor;______ _____
+http://www.wikidata.org/entity/Q1078593;Bela Rada;____ ____
+http://www.wikidata.org/entity/Q1078687;Mali Drenovets;____ ________
+http://www.wikidata.org/entity/Q1078692;Baurene;_______
+http://www.wikidata.org/entity/Q1078706;Golyamo Peshtene;______ ______
+http://www.wikidata.org/entity/Q1078751;Markovo Ravnishte;_______ _______
+http://www.wikidata.org/entity/Q1078780;Cherno Pole;_____ ____
+http://www.wikidata.org/entity/Q1078798;Gorna Beshovitsa;_____ ________
+http://www.wikidata.org/entity/Q1078862;Mayor Uzunovo;_____ _______
+http://www.wikidata.org/entity/Q1078954;Gorno Peshtene;_____ ______
+http://www.wikidata.org/entity/Q1079016;Oslen Krivodol;_____ ________
+http://www.wikidata.org/entity/Q1079113;Beli Izvor;____ _____
+http://www.wikidata.org/entity/Q1079177;Tsar Simeonovo;___ _________
+http://www.wikidata.org/entity/Q1079236;Bodenets;_______
+http://www.wikidata.org/entity/Q1079258;Tri Kladentsi;___ ________
+http://www.wikidata.org/entity/Q1079312;Sredni Rat;______ ___
+http://www.wikidata.org/entity/Q1079503;Malo Peshtene;____ ______
+http://www.wikidata.org/entity/Q1079621;Galovo;______
+http://www.wikidata.org/entity/Q1079677;Dolni Vadin;_____ _____
+http://www.wikidata.org/entity/Q1085300;Dolna Dabeva;_____ ______
+http://www.wikidata.org/entity/Q1085447;Vidintsi;_______
+http://www.wikidata.org/entity/Q1085625;Aleksandrovo;____________
+http://www.wikidata.org/entity/Q1085686;Gorska Polyana;______ ______
+http://www.wikidata.org/entity/Q1085708;Palauzovo;_________
+http://www.wikidata.org/entity/Q1085733;Kostena Reka;_______ ____
+http://www.wikidata.org/entity/Q1085758;Vasil Drumev;_____ ______
+http://www.wikidata.org/entity/Q1085800;Zlatna Niva;______ ____
+http://www.wikidata.org/entity/Q1085824;Aleksandrovo;____________
+http://www.wikidata.org/entity/Q1085832;Zaychino Oreshe;_______ _____
+http://www.wikidata.org/entity/Q1085856;Malko Sharkovo;_____ _______
+http://www.wikidata.org/entity/Q1085925;Valcha Polyana;_____ ______
+http://www.wikidata.org/entity/Q1086029;Blagovo;_______
+http://www.wikidata.org/entity/Q1086131;Byal Bryag;___ ____
+http://www.wikidata.org/entity/Q1086181;Golyam Dervent;_____ _______
+http://www.wikidata.org/entity/Q1086335;Voynika;_______
+http://www.wikidata.org/entity/Q1086360;Drentsi;______
+http://www.wikidata.org/entity/Q1086373;Konyovets;________
+http://www.wikidata.org/entity/Q1086379;Zhrebino;_______
+http://www.wikidata.org/entity/Q1086401;Nova Byala Reka;____ ____ ____
+http://www.wikidata.org/entity/Q1086469;Golyamo Krushevo;______ _______
+http://www.wikidata.org/entity/Q1086481;Mezhda;_____
+http://www.wikidata.org/entity/Q1086497;Dolno Varshilo;_____ _______
+http://www.wikidata.org/entity/Q1086528;Gorna Dabeva;_____ ______
+http://www.wikidata.org/entity/Q1086539;Malak Manastir;_____ ________
+http://www.wikidata.org/entity/Q1086567;Malko Kirilovo;_____ ________
+http://www.wikidata.org/entity/Q1086707;Dobri Voynikovo;_____ _________
+http://www.wikidata.org/entity/Q1086804;Valchi Izvor;_____ _____
+http://www.wikidata.org/entity/Q1086845;Roza;____
+http://www.wikidata.org/entity/Q1086873;Irechekovo;_________
+http://www.wikidata.org/entity/Q1086904;Kapitan Petko;_______ _____
+http://www.wikidata.org/entity/Q1086910;Varbak;______
+http://www.wikidata.org/entity/Q1086941;Vodenichane;__________
+http://www.wikidata.org/entity/Q1087118;Krasen Dol;______ ___
+http://www.wikidata.org/entity/Q1088071;Gorna Birkova;_____ _______
+http://www.wikidata.org/entity/Q1088468;Osenovets;________
+http://www.wikidata.org/entity/Q2011077;Bashtino;______
+http://www.wikidata.org/entity/Q2011169;Asenovets;________
+http://www.wikidata.org/entity/Q2011428;Batsova Mahala;______ ______
+http://www.wikidata.org/entity/Q2011441;Batin;_____
+http://www.wikidata.org/entity/Q2011469;Banya;____
+http://www.wikidata.org/entity/Q2011481;Begovo;______
+http://www.wikidata.org/entity/Q2011491;Babuk;_____
+http://www.wikidata.org/entity/Q2011519;Aprilovo;________
+http://www.wikidata.org/entity/Q2011727;Ahmatovo;________
+http://www.wikidata.org/entity/Q2011983;Beli Bryag;____ ____
+http://www.wikidata.org/entity/Q2011996;Balyovtsi;________
+http://www.wikidata.org/entity/Q2012018;Belitsa;______
+http://www.wikidata.org/entity/Q2012069;Bogdanovo;_________
+http://www.wikidata.org/entity/Q2012134;Bistrentsi;_________
+http://www.wikidata.org/entity/Q2012213;Bogomilovo;__________
+http://www.wikidata.org/entity/Q2012265;Bivolare;________
+http://www.wikidata.org/entity/Q2012344;Borislav;________
+http://www.wikidata.org/entity/Q2012373;Borov Dol;_____ ___
+http://www.wikidata.org/entity/Q2012407;Bozduganovo;___________
+http://www.wikidata.org/entity/Q2012413;Borisovo;________
+http://www.wikidata.org/entity/Q2012433;Belyanovo;________
+http://www.wikidata.org/entity/Q2012456;Bradvari;________
+http://www.wikidata.org/entity/Q2012475;Bliznets;_______
+http://www.wikidata.org/entity/Q2013310;Valchan Dol;______ ___
+http://www.wikidata.org/entity/Q2013335;Vargov Dol;______ ___
+http://www.wikidata.org/entity/Q2013343;Varbnitsa;________
+http://www.wikidata.org/entity/Q2013370;Varbitsa;_______
+http://www.wikidata.org/entity/Q2013386;Vetren;______
+http://www.wikidata.org/entity/Q2013409;Visoka Polyana;______ ______
+http://www.wikidata.org/entity/Q2013454;Golyamo Dolyane;______ ______
+http://www.wikidata.org/entity/Q2013515;Gorna Arda;_____ ____
+http://www.wikidata.org/entity/Q2013527;Golyama Voda;______ ____
+http://www.wikidata.org/entity/Q2013544;Glufishevo;_________
+http://www.wikidata.org/entity/Q2013550;Gergevets;________
+http://www.wikidata.org/entity/Q2013560;Golyamo Chochoveni;______ ________
+http://www.wikidata.org/entity/Q2013567;Golyamo Vranovo;______ _______
+http://www.wikidata.org/entity/Q2013577;Gorna Zlatitsa;_____ _______
+http://www.wikidata.org/entity/Q2013586;Golyam Porovets;_____ _______
+http://www.wikidata.org/entity/Q2013598;Golyamo Tsarkvishte;______ ________
+http://www.wikidata.org/entity/Q2013668;Gorna Hubavka;_____ _______
+http://www.wikidata.org/entity/Q2013746;Golyamo Dryanovo;______ _______
+http://www.wikidata.org/entity/Q2013812;Gorno Belevo;_____ ______
+http://www.wikidata.org/entity/Q2013865;Dobreva Cheresha;_______ ______
+http://www.wikidata.org/entity/Q2013994;Dolna Zlatitsa;_____ _______
+http://www.wikidata.org/entity/Q2014077;Dolno Novkovo;_____ _______
+http://www.wikidata.org/entity/Q2014092;Elyovo;______
+http://www.wikidata.org/entity/Q2014116;Dolno Izvorovo;_____ ________
+http://www.wikidata.org/entity/Q2014178;Dolna Hubavka;_____ _______
+http://www.wikidata.org/entity/Q2014196;Dragash Voyvoda;______ _______
+http://www.wikidata.org/entity/Q2012502;Bikovo;______
+http://www.wikidata.org/entity/Q2012543;Brestovitsa;__________
+http://www.wikidata.org/entity/Q2012564;Brakyovtsi;_________
+http://www.wikidata.org/entity/Q2012585;Botrov;______
+http://www.wikidata.org/entity/Q2012592;Bardo;_____
+http://www.wikidata.org/entity/Q2012606;Bryastovo;________
+http://www.wikidata.org/entity/Q2012669;Badeshte;______
+http://www.wikidata.org/entity/Q2012768;Breste;______
+http://www.wikidata.org/entity/Q2012799;Bardokva;________
+http://www.wikidata.org/entity/Q2012817;Bukorovtsi;_________
+http://www.wikidata.org/entity/Q2012884;Bratya Kunchevi;_____ _______
+http://www.wikidata.org/entity/Q2012908;Bukova Polyana;______ ______
+http://www.wikidata.org/entity/Q2012972;Velyovo;_______
+http://www.wikidata.org/entity/Q2013124;Vodenicharovo;____________
+http://www.wikidata.org/entity/Q2013197;Vrani Kon;_____ ___
+http://www.wikidata.org/entity/Q2013212;Vidrare;_______
+http://www.wikidata.org/entity/Q2013272;Gaytanevo;_________
+http://www.wikidata.org/entity/Q2014230;Gorni Domlyan;_____ ______
+http://www.wikidata.org/entity/Q2014266;Dolni Lukovit;_____ _______
+http://www.wikidata.org/entity/Q2014302;Gorsko Selo;______ ____
+http://www.wikidata.org/entity/Q2014437;Dolno Kozarevo;_____ ________
+http://www.wikidata.org/entity/Q2014444;Ekzarh Yosif;______ _____
+http://www.wikidata.org/entity/Q2014489;Gorno Ablanovo;_____ ________
+http://www.wikidata.org/entity/Q2014507;Dlazhka Polyana;______ ______
+http://www.wikidata.org/entity/Q2014633;Dve Topoli;___ ______
+http://www.wikidata.org/entity/Q2014666;Dolni Vit;_____ ___
+http://www.wikidata.org/entity/Q2014700;Gorno Kozarevo;_____ ________
+http://www.wikidata.org/entity/Q2014722;Dolna Studena;_____ _______
+http://www.wikidata.org/entity/Q2014790;Dolno Novo Selo;_____ ____ ____
+http://www.wikidata.org/entity/Q2015170;Gorno Botevo;_____ ______
+http://www.wikidata.org/entity/Q2015182;Daskal-atanasovo;______-_________
+http://www.wikidata.org/entity/Q2015205;Gorno Novkovo;_____ _______
+http://www.wikidata.org/entity/Q2015214;Zhelyu Voyvoda;____ _______
+http://www.wikidata.org/entity/Q2015833;Krushev Dol;______ ___
+http://www.wikidata.org/entity/Q2015849;Kozar Belenea;_____ ______
+http://www.wikidata.org/entity/Q2015990;Zhalt Bryag;____ ____
+http://www.wikidata.org/entity/Q2016261;Isyovtsi;_______
+http://www.wikidata.org/entity/Q2016330;Zhalt Kamak;____ _____
+http://www.wikidata.org/entity/Q2016452;Zlati Voyvoda;_____ _______
+http://www.wikidata.org/entity/Q2016541;Kulina Voda;______ ____
+http://www.wikidata.org/entity/Q2016549;Ivan Shishmanovo;____ _________
+http://www.wikidata.org/entity/Q2016770;Zlatovrah;_________
+http://www.wikidata.org/entity/Q2016815;Kara Mihal;____ _____
+http://www.wikidata.org/entity/Q2016912;Zelena Morava;______ ______
+http://www.wikidata.org/entity/Q2017257;Kyolmen;_______
+http://www.wikidata.org/entity/Q2017308;Malko Krushevo;_____ _______
+http://www.wikidata.org/entity/Q2017345;Lyubenova Mahala;________ ______
+http://www.wikidata.org/entity/Q2017420;Malki Iskar;_____ _____
+http://www.wikidata.org/entity/Q2017444;Malko Yonkovo;_____ _______
+http://www.wikidata.org/entity/Q2017465;Lavino;______
+http://www.wikidata.org/entity/Q2017490;Malko Vranovo;_____ _______
+http://www.wikidata.org/entity/Q2017496;Lyubichevo;________
+http://www.wikidata.org/entity/Q2017520;Malka Cherkovna;_____ ________
+http://www.wikidata.org/entity/Q2017629;Malka Vereya;_____ _____
+http://www.wikidata.org/entity/Q2017637;Malko Kadievo;_____ _______
+http://www.wikidata.org/entity/Q2017714;Mala Rakovitsa;____ ________
+http://www.wikidata.org/entity/Q2017722;Malko Dryanovo;_____ _______
+http://www.wikidata.org/entity/Q2017781;Lyaskovo;_______
+http://www.wikidata.org/entity/Q2017835;Malko Tranovo;_____ _______
+http://www.wikidata.org/entity/Q2017844;Malko Chochoveni;_____ ________
+http://www.wikidata.org/entity/Q2017854;Malo Krushevo;____ _______
+http://www.wikidata.org/entity/Q2017921;Malak Porovets;_____ _______
+http://www.wikidata.org/entity/Q2017962;Manolovo;________
+http://www.wikidata.org/entity/Q2018064;Manaselska Reka;__________ ____
+http://www.wikidata.org/entity/Q2018077;Marino Pole;______ ____
+http://www.wikidata.org/entity/Q2018323;Medovene;________
+http://www.wikidata.org/entity/Q2018408;Mechovo;______
+http://www.wikidata.org/entity/Q2018464;Malak Dol;_____ ___
+http://www.wikidata.org/entity/Q2018563;Novi Izvor;____ _____
+http://www.wikidata.org/entity/Q2018613;Polkovnik Cholakovo;_________ ________
+http://www.wikidata.org/entity/Q2018620;Ploska Mogila;______ ______
+http://www.wikidata.org/entity/Q2018697;Ostri Pazlak;_____ ______
+http://www.wikidata.org/entity/Q2018851;Momino Selo;______ ____
+http://www.wikidata.org/entity/Q2018859;Nayden Gerovo;______ ______
+http://www.wikidata.org/entity/Q2018866;Panayot-volovo;_______-______
+http://www.wikidata.org/entity/Q2018877;Podgoritsa;_________
+http://www.wikidata.org/entity/Q2019119;Nova Popina;____ ______
+http://www.wikidata.org/entity/Q2019169;Polsko Padarevo;______ ________
+http://www.wikidata.org/entity/Q2019174;Polsko Kosovo;______ ______
+http://www.wikidata.org/entity/Q2019198;Orach;____
+http://www.wikidata.org/entity/Q2019246;Polkovnik Taslakovo;_________ _________
+http://www.wikidata.org/entity/Q2019264;Polkovnik Lambrinovo;_________ __________
+http://www.wikidata.org/entity/Q2019331;Pet Kladentsi;___ ________
+http://www.wikidata.org/entity/Q2019346;Osikovska Lakavitsa;_________ ________
+http://www.wikidata.org/entity/Q2019444;Otets Kirilovo;____ ________
+http://www.wikidata.org/entity/Q2019604;Ostra Mogila;_____ ______
+http://www.wikidata.org/entity/Q2020814;Riben Dol;_____ ___
+http://www.wikidata.org/entity/Q2020834;Sini Vir;____ ___
+http://www.wikidata.org/entity/Q2020992;Sladak Kladenets;______ ________
+http://www.wikidata.org/entity/Q2021039;Staychin Dol;_______ ___
+http://www.wikidata.org/entity/Q2021094;Stoil Voyvoda;_____ _______
+http://www.wikidata.org/entity/Q2021219;Sredno Gradishte;______ _______
+http://www.wikidata.org/entity/Q2021225;Stara Rechka;_____ _____
+http://www.wikidata.org/entity/Q2021334;Stoyan-zaimovo;_____-_______
+http://www.wikidata.org/entity/Q2021413;Sadiysko Pole;________ ____
+http://www.wikidata.org/entity/Q2021501;Stoyan Mihaylovski;_____ ___________
+http://www.wikidata.org/entity/Q2019668;Nova Mahala;____ ______
+http://www.wikidata.org/entity/Q2020069;Razdeltsi;________
+http://www.wikidata.org/entity/Q2020116;Profesor Ishirkovo;________ ________
+http://www.wikidata.org/entity/Q2020221;Ravno Pole;_____ ____
+http://www.wikidata.org/entity/Q2020262;Ravno Nivishte;_____ ______
+http://www.wikidata.org/entity/Q2021548;Staro Selishte;_____ ______
+http://www.wikidata.org/entity/Q2021817;Todor Ikonomovo;_____ _________
+http://www.wikidata.org/entity/Q2021871;Topolovets;_________
+http://www.wikidata.org/entity/Q2021918;Tanka Bara;_____ ____
+http://www.wikidata.org/entity/Q2021985;Chervena Voda;_______ ____
+http://www.wikidata.org/entity/Q2022116;Tsani Ginchevo;____ _______
+http://www.wikidata.org/entity/Q2022177;Han Asparuhovo;___ __________
+http://www.wikidata.org/entity/Q2022204;Tsarev Dol;_____ ___
+http://www.wikidata.org/entity/Q2022272;Cherni Bryag;_____ ____
+http://www.wikidata.org/entity/Q2022399;Yakim Gruevo;____ ______
+http://www.wikidata.org/entity/Q2024498;Borovo;______
+http://www.wikidata.org/entity/Q2058371;Malka Arda;_____ ____
+http://www.wikidata.org/entity/Q2058401;Benkovski;_________
+http://www.wikidata.org/entity/Q2058471;Gledachevo;_________
+http://www.wikidata.org/entity/Q2457020;Dolno Ablanovo;_____ ________
+http://www.wikidata.org/entity/Q2457220;Golemanovo;__________
+http://www.wikidata.org/entity/Q2457375;Glavatsi;_______
+http://www.wikidata.org/entity/Q2457833;Izvor Mahala;_____ ______
+http://www.wikidata.org/entity/Q2454079;Belashtitsa;________
+http://www.wikidata.org/entity/Q2454634;Belokopitovo;____________
+http://www.wikidata.org/entity/Q2454645;Bozyova;_______
+http://www.wikidata.org/entity/Q2455647;Bozhurka;_______
+http://www.wikidata.org/entity/Q2455658;Bayachevo;_______
+http://www.wikidata.org/entity/Q2455712;Alvanovo;________
+http://www.wikidata.org/entity/Q2455768;Golyamo Novo;______ ____
+http://www.wikidata.org/entity/Q2455844;Golyamo Sokolovo;______ ________
+http://www.wikidata.org/entity/Q2459882;Brest;_____
+http://www.wikidata.org/entity/Q2461538;Radko Dimitrievo;_____ __________
+http://www.wikidata.org/entity/Q2461810;Sinya Voda;____ ____
+http://www.wikidata.org/entity/Q2462560;Tsar Shishmanovo;___ _________
+http://www.wikidata.org/entity/Q2462649;Tsar-petrovo;___-_______
+http://www.wikidata.org/entity/Q2480793;Butan;_____
+http://www.wikidata.org/entity/Q3563482;Q3563482;Q3563482
+http://www.wikidata.org/entity/Q3658266;Valchovtsi;________
+http://www.wikidata.org/entity/Q4071396;Asparuhovo;__________
+http://www.wikidata.org/entity/Q4095459;Boyana;_____
+http://www.wikidata.org/entity/Q4096244;Brezovo (Oblast Veliko Tarnovo);_______ (______ ______ _______)
+http://www.wikidata.org/entity/Q4098610;Bukovets (Oblast Vratsa);_______ (______ _____)
+http://www.wikidata.org/entity/Q4098629;Bukovo (Oblast Smolyan);______ (______ ______)
+http://www.wikidata.org/entity/Q4098711;Bulair;______
+http://www.wikidata.org/entity/Q4100891;Bazovets;_______
+http://www.wikidata.org/entity/Q4101082;Barzina;_______
+http://www.wikidata.org/entity/Q4101544;Byal Izvor;___ _____
+http://www.wikidata.org/entity/Q4101545;Byal Kladenets;___ ________
+http://www.wikidata.org/entity/Q4101549;Byala Voda;____ ____
+http://www.wikidata.org/entity/Q4101550;Byala Reka;____ ____
+http://www.wikidata.org/entity/Q4104187;Vasil Levski (Oblast Silistra);_____ ______ (______ ________)
+http://www.wikidata.org/entity/Q4104190;Vasil Levski (Oblast Targovishte);_____ ______ (______ _________)
+http://www.wikidata.org/entity/Q4106374;Velikdenche;__________
+http://www.wikidata.org/entity/Q4106644;Velikovo;________
+http://www.wikidata.org/entity/Q4106898;Velichkovo;_________
+http://www.wikidata.org/entity/Q4106901;Velichkovo;_________
+http://www.wikidata.org/entity/Q4106913;Velkovtsi (Oblast Veliko Tarnovo);________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4107128;Venelin;_______
+http://www.wikidata.org/entity/Q4107146;Venets (Oblast Stara Zagora);_____ (______ _____ ______)
+http://www.wikidata.org/entity/Q4109335;Veselets;_______
+http://www.wikidata.org/entity/Q4109336;Veselets (Oblast Targovishte);_______ (______ _________)
+http://www.wikidata.org/entity/Q4109339;Veselina (Oblast Veliko Tarnovo);________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4109345;Veselinovo (Oblast Yambol);__________ (______ _____)
+http://www.wikidata.org/entity/Q4111476;Vinarovo;________
+http://www.wikidata.org/entity/Q4112182;Viskyar;______
+http://www.wikidata.org/entity/Q4112222;Visok;_____
+http://www.wikidata.org/entity/Q4113020;Vladimir;________
+http://www.wikidata.org/entity/Q4113940;Voden;_____
+http://www.wikidata.org/entity/Q4113960;Voditsa;______
+http://www.wikidata.org/entity/Q4113993;Vodno;_____
+http://www.wikidata.org/entity/Q4113994;Vodno (Oblast Silistra);_____ (______ ________)
+http://www.wikidata.org/entity/Q4114044;Vodnyantsi;________
+http://www.wikidata.org/entity/Q4122849;Vokil;_____
+http://www.wikidata.org/entity/Q4128506;Vabel;_____
+http://www.wikidata.org/entity/Q4128744;Vaglen;______
+http://www.wikidata.org/entity/Q4129124;Varba;_____
+http://www.wikidata.org/entity/Q4129125;Varba (Oblast Smolyan);_____ (______ ______)
+http://www.wikidata.org/entity/Q4129136;Varbovo (Oblast Smolyan);_______ (______ ______)
+http://www.wikidata.org/entity/Q4129168;Varli Dol;_____ ___
+http://www.wikidata.org/entity/Q4130959;Gabritsa;_______
+http://www.wikidata.org/entity/Q4133621;Garvan;______
+http://www.wikidata.org/entity/Q4135252;General Kolevo;_______ ______
+http://www.wikidata.org/entity/Q4135257;General Toshevo;_______ ______
+http://www.wikidata.org/entity/Q4139108;Glavan;______
+http://www.wikidata.org/entity/Q4139112;Glavanovtsi;__________
+http://www.wikidata.org/entity/Q4139562;Glashatay;________
+http://www.wikidata.org/entity/Q4142867;Golyam izvor (Oblast Razgrad);_____ _____ (______ _______)
+http://www.wikidata.org/entity/Q4143474;Goranovtsi (Oblast Veliko Tarnovo);_________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4144813;Gorovo;______
+http://www.wikidata.org/entity/Q4146413;Gospodinovo (Oblast Silistra);___________ (______ ________)
+http://www.wikidata.org/entity/Q4147395;Gradina;_______
+http://www.wikidata.org/entity/Q4147402;Gradishte;_______
+http://www.wikidata.org/entity/Q4147632;Gramade;_______
+http://www.wikidata.org/entity/Q4153183;Galabovo;________
+http://www.wikidata.org/entity/Q4153613;Davidovo;________
+http://www.wikidata.org/entity/Q4156007;Dvorishte;_______
+http://www.wikidata.org/entity/Q4157244;Delchevo;_______
+http://www.wikidata.org/entity/Q4160566;Dzhulyunitsa;_________
+http://www.wikidata.org/entity/Q4160567;Dzhulyunitsa (Oblast Ruse);_________ (______ ____)
+http://www.wikidata.org/entity/Q4161745;Dimovtsi;_______
+http://www.wikidata.org/entity/Q4161746;Dimovtsi (Oblast Stara Zagora);_______ (______ _____ ______)
+http://www.wikidata.org/entity/Q4163418;Dobrevtsi (Oblast Veliko Tarnovo);________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4163452;Dobri Dol;_____ ___
+http://www.wikidata.org/entity/Q4163793;Dobrotitsa (Oblast Targovishte);_________ (______ _________)
+http://www.wikidata.org/entity/Q4164243;Doyrantsi;________
+http://www.wikidata.org/entity/Q4164789;Dolets;_____
+http://www.wikidata.org/entity/Q4164919;Dolina;______
+http://www.wikidata.org/entity/Q4167481;Draganovtsi (Oblast Veliko Tarnovo);__________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4167497;Dragnevtsi (Oblast Veliko Tarnovo);_________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4167520;Dragomirovo;___________
+http://www.wikidata.org/entity/Q4167689;Drangovo;________
+http://www.wikidata.org/entity/Q4168974;Drandar;_______
+http://www.wikidata.org/entity/Q4169003;Dryanovets (Oblast Smolyan);________ (______ ______)
+http://www.wikidata.org/entity/Q4169004;Dryanovo (Oblast Plovdiv);_______ (______ _______)
+http://www.wikidata.org/entity/Q4169006;Dryanovo;_______
+http://www.wikidata.org/entity/Q4170664;Dunavtsi (Oblast Veliko Tarnovo);_______ (______ ______ _______)
+http://www.wikidata.org/entity/Q4170665;Dunavtsi (Oblast Stara Zagora);_______ (______ _____ ______)
+http://www.wikidata.org/entity/Q4171513;Dabova;______
+http://www.wikidata.org/entity/Q4171514;Dabova (Oblast Smolyan);______ (______ ______)
+http://www.wikidata.org/entity/Q4171517;Dabovo;______
+http://www.wikidata.org/entity/Q4171554;Dalgo Pole;_____ ____
+http://www.wikidata.org/entity/Q4171555;Dalgo pole (Oblast Plovdiv);_____ ____ (______ _______)
+http://www.wikidata.org/entity/Q4175057;Elovitsa;_______
+http://www.wikidata.org/entity/Q4175146;Elhovo;______
+http://www.wikidata.org/entity/Q4179847;Zhivkovo;_______
+http://www.wikidata.org/entity/Q4183518;Zagore;______
+http://www.wikidata.org/entity/Q4183623;Zagortsi;_______
+http://www.wikidata.org/entity/Q4183714;Zagrazhden;_________
+http://www.wikidata.org/entity/Q4189431;Zvezditsa;________
+http://www.wikidata.org/entity/Q4189754;Zvanets;______
+http://www.wikidata.org/entity/Q4190020;Zdravets;_______
+http://www.wikidata.org/entity/Q4190022;Zdravets (Oblast Razgrad);_______ (______ _______)
+http://www.wikidata.org/entity/Q4191663;Zetyovo;_______
+http://www.wikidata.org/entity/Q4192026;Zimnitsa;_______
+http://www.wikidata.org/entity/Q4192370;Zlatina;_______
+http://www.wikidata.org/entity/Q4192797;Znamenosets;__________
+http://www.wikidata.org/entity/Q4196781;Ivanovtsi (Oblast Veliko Tarnovo);________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4197369;Iglika;______
+http://www.wikidata.org/entity/Q4197511;Ignatovtsi (Oblast Veliko Tarnovo);_________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4198471;Izvorovo;________
+http://www.wikidata.org/entity/Q4198473;Izvorovo;________
+http://www.wikidata.org/entity/Q4198499;Izgrev (Oblast Sliven);______ (______ ______)
+http://www.wikidata.org/entity/Q4198500;Izgrev;______
+http://www.wikidata.org/entity/Q4198501;Izgrev (Oblast Smolyan);______ (______ ______)
+http://www.wikidata.org/entity/Q4203404;Irnik;_____
+http://www.wikidata.org/entity/Q4204011;Iskar (Oblast Pleven);_____ (______ ______)
+http://www.wikidata.org/entity/Q4208298;Kazimir;_______
+http://www.wikidata.org/entity/Q4209417;Kalina;______
+http://www.wikidata.org/entity/Q4210315;Kaloyan;______
+http://www.wikidata.org/entity/Q4210823;Kamen;_____
+http://www.wikidata.org/entity/Q4210826;Kamen (Oblast Sliven);_____ (______ ______)
+http://www.wikidata.org/entity/Q4210860;Kamenets;_______
+http://www.wikidata.org/entity/Q4210895;Kamenitsa;________
+http://www.wikidata.org/entity/Q4211311;Kamenovo (Oblast Sliven);________ (______ ______)
+http://www.wikidata.org/entity/Q4213654;Karavelovo;__________
+http://www.wikidata.org/entity/Q4219792;Kesten;______
+http://www.wikidata.org/entity/Q4221444;Kirilovo (Oblast Stara Zagora);________ (______ _____ ______)
+http://www.wikidata.org/entity/Q4222458;Kiten;_____
+http://www.wikidata.org/entity/Q4223675;Kliment (Oblast Plovdiv);_______ (______ _______)
+http://www.wikidata.org/entity/Q4224295;Klashka Reka;______ ____
+http://www.wikidata.org/entity/Q4225709;Kovach (Oblast Stara Zagora);_____ (______ _____ ______)
+http://www.wikidata.org/entity/Q4226230;Koevtsi;______
+http://www.wikidata.org/entity/Q4226469;Kozarevets;_________
+http://www.wikidata.org/entity/Q4226628;Kozitsa;______
+http://www.wikidata.org/entity/Q4227136;Kozyak;_____
+http://www.wikidata.org/entity/Q4229233;Komarevo (Oblast Varna);________ (______ _____)
+http://www.wikidata.org/entity/Q4229235;Komarevo (Oblast Vratsa);________ (______ _____)
+http://www.wikidata.org/entity/Q4230368;Konare;______
+http://www.wikidata.org/entity/Q4230709;Konevo;______
+http://www.wikidata.org/entity/Q4231776;Konush;_____
+http://www.wikidata.org/entity/Q4232121;Konyovo;_______
+http://www.wikidata.org/entity/Q4237459;Krayna (Obshtina Nedelino);______ (______ ________)
+http://www.wikidata.org/entity/Q4237460;Krayna;______
+http://www.wikidata.org/entity/Q4237740;Krasen;______
+http://www.wikidata.org/entity/Q4240486;Kreta;_____
+http://www.wikidata.org/entity/Q4240488;Kreta (Oblast Pleven);_____ (______ ______)
+http://www.wikidata.org/entity/Q4242153;Krumovo;_______
+http://www.wikidata.org/entity/Q4242155;Krumovo (Oblast Yambol);_______ (______ _____)
+http://www.wikidata.org/entity/Q4242605;Krushevo;_______
+http://www.wikidata.org/entity/Q4242673;Krushovitsa (Oblast Pleven);_________ (______ ______)
+http://www.wikidata.org/entity/Q4242674;Krushovitsa;_________
+http://www.wikidata.org/entity/Q4247423;Kupen;_____
+http://www.wikidata.org/entity/Q4250896;Kapinovo;________
+http://www.wikidata.org/entity/Q4256772;Levski;______
+http://www.wikidata.org/entity/Q4259371;Leska;_____
+http://www.wikidata.org/entity/Q4262653;Lipnitsa;_______
+http://www.wikidata.org/entity/Q4263439;Listets;______
+http://www.wikidata.org/entity/Q4264888;Lovets (Oblast Targovishte);_____ (______ _________)
+http://www.wikidata.org/entity/Q4264889;Lovets (Oblast Shumen);_____ (______ _____)
+http://www.wikidata.org/entity/Q4265405;Lozen;_____
+http://www.wikidata.org/entity/Q4265465;Lozitsa;______
+http://www.wikidata.org/entity/Q4270549;Laka;____
+http://www.wikidata.org/entity/Q4271425;Lyuben;_____
+http://www.wikidata.org/entity/Q4271434;Lyubenovo;________
+http://www.wikidata.org/entity/Q4271436;Lyubenovo (Oblast Stara Zagora);________ (______ _____ ______)
+http://www.wikidata.org/entity/Q4272204;Lyulin (Oblast Yambol);_____ (______ _____)
+http://www.wikidata.org/entity/Q4278358;Malomir (Oblast Shumen);_______ (______ _____)
+http://www.wikidata.org/entity/Q4278522;Malchovtsi (Oblast Veliko Tarnovo);________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4280177;Manastir (Oblast Plovdiv);________ (______ _______)
+http://www.wikidata.org/entity/Q4282158;Markovo;_______
+http://www.wikidata.org/entity/Q4282161;Markovo (Oblast Shumen);_______ (______ _____)
+http://www.wikidata.org/entity/Q4285869;Matsa;____
+http://www.wikidata.org/entity/Q4291798;Metlichina;_________
+http://www.wikidata.org/entity/Q4291916;Metodievo (Oblast Shumen);_________ (______ _____)
+http://www.wikidata.org/entity/Q4293309;Miladinovtsi;___________
+http://www.wikidata.org/entity/Q4293312;Miladinovtsi (Oblast Yambol);___________ (______ _____)
+http://www.wikidata.org/entity/Q4293324;Milanovo;________
+http://www.wikidata.org/entity/Q4295920;Mirovo;______
+http://www.wikidata.org/entity/Q4297679;Mihaylovo;_________
+http://www.wikidata.org/entity/Q4297931;Mihalich;_______
+http://www.wikidata.org/entity/Q4299082;Mogila (Oblast Yambol);______ (______ _____)
+http://www.wikidata.org/entity/Q4300058;Mokresh;______
+http://www.wikidata.org/entity/Q4302299;Morava;______
+http://www.wikidata.org/entity/Q4302307;Moravitsa;________
+http://www.wikidata.org/entity/Q4305513;Mramor (Oblast Pernik);______ (______ ______)
+http://www.wikidata.org/entity/Q4307931;Murgash;______
+http://www.wikidata.org/entity/Q4308339;Musachevo (Oblast Stara Zagora);________ (______ _____ ______)
+http://www.wikidata.org/entity/Q4309288;Madrets;______
+http://www.wikidata.org/entity/Q4314294;Naum;____
+http://www.wikidata.org/entity/Q4316400;Neykovo;_______
+http://www.wikidata.org/entity/Q4320405;Nikolaevo;_________
+http://www.wikidata.org/entity/Q4320408;Nikolaevo (Oblast Pernik);_________ (______ ______)
+http://www.wikidata.org/entity/Q4320410;Nikolaevo (Oblast Pleven);_________ (______ ______)
+http://www.wikidata.org/entity/Q4320411;Nikolaevo (Oblast Sliven);_________ (______ ______)
+http://www.wikidata.org/entity/Q4320791;Nikolovo;________
+http://www.wikidata.org/entity/Q4320804;Nikolchovtsi (Oblast Veliko Tarnovo);__________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4329619;Oborishte;_______
+http://www.wikidata.org/entity/Q4330661;Oven;____
+http://www.wikidata.org/entity/Q4334529;Oman;____
+http://www.wikidata.org/entity/Q4334552;Omarchevo (Oblast Shumen);________ (______ _____)
+http://www.wikidata.org/entity/Q4336374;Oreshene;_______
+http://www.wikidata.org/entity/Q4336380;Oreshets (Oblast Smolyan);______ (______ ______)
+http://www.wikidata.org/entity/Q4336838;Orlovo;______
+http://www.wikidata.org/entity/Q4337575;Oselna (Sofiyska oblast);______ (________ ______)
+http://www.wikidata.org/entity/Q4337576;Oselna;______
+http://www.wikidata.org/entity/Q4337586;Osen (Oblast Silistra);____ (______ ________)
+http://www.wikidata.org/entity/Q4337588;Osen (Oblast Vratsa);____ (______ _____)
+http://www.wikidata.org/entity/Q4338709;Ostrets;______
+http://www.wikidata.org/entity/Q4338738;Ostritsa;_______
+http://www.wikidata.org/entity/Q4338740;Ostritsa (Oblast Smolyan);_______ (______ ______)
+http://www.wikidata.org/entity/Q4342079;Padina;______
+http://www.wikidata.org/entity/Q4342214;Paisiy;______
+http://www.wikidata.org/entity/Q4343840;Panayot Hitovo;_______ ______
+http://www.wikidata.org/entity/Q4347736;Pevets;_____
+http://www.wikidata.org/entity/Q4349114;Parvenets;________
+http://www.wikidata.org/entity/Q4359778;Pesnopoy;________
+http://www.wikidata.org/entity/Q4360138;Pet Mogili;___ ______
+http://www.wikidata.org/entity/Q4360140;Pet Mogili;___ ______
+http://www.wikidata.org/entity/Q4360889;Petrov Dol;______ ___
+http://www.wikidata.org/entity/Q4360890;Petrov dol (Oblast Smolyan);______ ___ (______ ______)
+http://www.wikidata.org/entity/Q4361137;Petrovo;_______
+http://www.wikidata.org/entity/Q4362234;Peshtera (Oblast Smolyan);______ (______ ______)
+http://www.wikidata.org/entity/Q4363575;Pisarevo (Oblast Shumen);________ (______ _____)
+http://www.wikidata.org/entity/Q4364454;Planintsi (Oblast Smolyan);________ (______ ______)
+http://www.wikidata.org/entity/Q4366180;Pobeda (Oblast Yambol);______ (______ _____)
+http://www.wikidata.org/entity/Q4366263;Pobit Kamak;_____ _____
+http://www.wikidata.org/entity/Q4368304;Podslon;_______
+http://www.wikidata.org/entity/Q4368627;Pozharevo;________
+http://www.wikidata.org/entity/Q4371457;Polyana (Oblast Smolyan);______ (______ ______)
+http://www.wikidata.org/entity/Q4371469;Polyana;______
+http://www.wikidata.org/entity/Q4372806;Popovo;______
+http://www.wikidata.org/entity/Q4372857;Popovtsi (Oblast Veliko Tarnovo);_______ (______ ______ _______)
+http://www.wikidata.org/entity/Q4372859;Popovtsi;_______
+http://www.wikidata.org/entity/Q4372895;Popska (Oblast Veliko Tarnovo);______ (______ ______ _______)
+http://www.wikidata.org/entity/Q4373088;Poroyno;_______
+http://www.wikidata.org/entity/Q4373089;Poroyno (Oblast Targovishte);_______ (______ _________)
+http://www.wikidata.org/entity/Q4373590;Posev;_____
+http://www.wikidata.org/entity/Q4374899;Potop;_____
+http://www.wikidata.org/entity/Q4375806;Pravda;______
+http://www.wikidata.org/entity/Q4375815;Pravda (Oblast Silistra);______ (______ ________)
+http://www.wikidata.org/entity/Q4377416;Presiyan;_______
+http://www.wikidata.org/entity/Q4379920;Prodanovtsi (Oblast Veliko Tarnovo);__________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4380589;Prolom;______
+http://www.wikidata.org/entity/Q4382794;Pryaporets;________
+http://www.wikidata.org/entity/Q4386926;Ravna;_____
+http://www.wikidata.org/entity/Q4386930;Ravna (Sofiyska oblast);_____ (________ ______)
+http://www.wikidata.org/entity/Q4386952;Ravno Selo;_____ ____
+http://www.wikidata.org/entity/Q4387169;Radevo;______
+http://www.wikidata.org/entity/Q4387799;Radovtsi (Oblast Veliko Tarnovo);_______ (______ ______ _______)
+http://www.wikidata.org/entity/Q4388380;Razdel (Oblast Silistra);______ (______ ________)
+http://www.wikidata.org/entity/Q4389027;Raynovtsi (Oblast Veliko Tarnovo);________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4389371;Rakitnitsa;_________
+http://www.wikidata.org/entity/Q4389375;Rakitnitsa;_________
+http://www.wikidata.org/entity/Q4389577;Ralitsa (Oblast Targovishte);______ (______ _________)
+http://www.wikidata.org/entity/Q4391404;Rayanovtsi;________
+http://www.wikidata.org/entity/Q4391605;Rebro;_____
+http://www.wikidata.org/entity/Q4394296;Ribaritsa;________
+http://www.wikidata.org/entity/Q4394318;Ribnitsa;_______
+http://www.wikidata.org/entity/Q4395761;Rodina;______
+http://www.wikidata.org/entity/Q4396681;Rozovo (Oblast Pazardzhik);______ (______ _________)
+http://www.wikidata.org/entity/Q4397753;Rosen;_____
+http://www.wikidata.org/entity/Q4397772;Rositsa (Oblast Targovishte);______ (______ _________)
+http://www.wikidata.org/entity/Q4399525;Rudnik;______
+http://www.wikidata.org/entity/Q4399794;Ruen;____
+http://www.wikidata.org/entity/Q4399827;Ruzhitsa (Oblast Yambol);______ (______ _____)
+http://www.wikidata.org/entity/Q4399828;Ruzhitsa;______
+http://www.wikidata.org/entity/Q4400189;Ruptsi;_____
+http://www.wikidata.org/entity/Q4400190;Ruptsi (Oblast Pleven);_____ (______ ______)
+http://www.wikidata.org/entity/Q4403654;Sava;____
+http://www.wikidata.org/entity/Q4403927;Savin;_____
+http://www.wikidata.org/entity/Q4410497;Svetlya;______
+http://www.wikidata.org/entity/Q4411049;Svoboda;_______
+http://www.wikidata.org/entity/Q4413959;Seltse;_____
+http://www.wikidata.org/entity/Q4415020;Selyanin;_______
+http://www.wikidata.org/entity/Q4416533;Septemvriytsi;____________
+http://www.wikidata.org/entity/Q4421985;Skobelevo;_________
+http://www.wikidata.org/entity/Q4421989;Skobelevo;_________
+http://www.wikidata.org/entity/Q4422856;Slaveykovo;__________
+http://www.wikidata.org/entity/Q4422859;Slaveykovo (Oblast Yambol);__________ (______ _____)
+http://www.wikidata.org/entity/Q4423017;Slavyanin;________
+http://www.wikidata.org/entity/Q4423205;Slatina;_______
+http://www.wikidata.org/entity/Q4423210;Slatino;_______
+http://www.wikidata.org/entity/Q4423421;Slivovitsa;_________
+http://www.wikidata.org/entity/Q4424518;Smilets;______
+http://www.wikidata.org/entity/Q4430861;Spasovo;_______
+http://www.wikidata.org/entity/Q4438464;Sredets (Oblast Stara Zagora);______ (______ _____ ______)
+http://www.wikidata.org/entity/Q4438661;Sredno Selo;______ ____
+http://www.wikidata.org/entity/Q4438662;Sredno selo (Oblast Veliko Tarnovo);______ ____ (______ ______ _______)
+http://www.wikidata.org/entity/Q4438753;Sredorek;________
+http://www.wikidata.org/entity/Q4439306;Stambolovo;__________
+http://www.wikidata.org/entity/Q4439307;Stambolovo (Oblast Ruse);__________ (______ ____)
+http://www.wikidata.org/entity/Q4439591;Stanyantsi (Oblast Shumen);________ (______ _____)
+http://www.wikidata.org/entity/Q4439593;Stanyovtsi;_________
+http://www.wikidata.org/entity/Q4439596;Stara reka (Oblast Yambol);_____ ____ (______ _____)
+http://www.wikidata.org/entity/Q4439599;Stara Reka;_____ ____
+http://www.wikidata.org/entity/Q4440034;Staro Selo;_____ ____
+http://www.wikidata.org/entity/Q4442417;Stefan Karadzha;______ _______
+http://www.wikidata.org/entity/Q4442419;Stefan Karadzha (Oblast Silistra);______ _______ (______ ________)
+http://www.wikidata.org/entity/Q4442890;Stoletovo;_________
+http://www.wikidata.org/entity/Q4442891;Stoletovo (Oblast Stara Zagora);_________ (______ _____ ______)
+http://www.wikidata.org/entity/Q4443254;Stoyanovtsi (Oblast Veliko Tarnovo);_________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4443288;Strazha;______
+http://www.wikidata.org/entity/Q4443297;Strazhets;_______
+http://www.wikidata.org/entity/Q4443342;Strandzha;________
+http://www.wikidata.org/entity/Q4443539;Strashimir;_________
+http://www.wikidata.org/entity/Q4443609;Strelets;_______
+http://www.wikidata.org/entity/Q4443611;Strelets (Oblast Stara Zagora);_______ (______ _____ ______)
+http://www.wikidata.org/entity/Q4443726;Streltsi;_______
+http://www.wikidata.org/entity/Q4443727;Streltsi (Oblast Sliven);_______ (______ ______)
+http://www.wikidata.org/entity/Q4444397;Strupets;_______
+http://www.wikidata.org/entity/Q4444442;Stryama;______
+http://www.wikidata.org/entity/Q4444467;Studena;_______
+http://www.wikidata.org/entity/Q4444498;Studenitsa;_________
+http://www.wikidata.org/entity/Q4446865;Suha Reka;____ ____
+http://www.wikidata.org/entity/Q4447198;Suhodol;_______
+http://www.wikidata.org/entity/Q4447884;Saedinenie (Oblast Targovishte);__________ (______ _________)
+http://www.wikidata.org/entity/Q4448054;Sarnevo;_______
+http://www.wikidata.org/entity/Q4448057;Sarnino;_______
+http://www.wikidata.org/entity/Q4452378;Tatarevo;________
+http://www.wikidata.org/entity/Q4455472;Tervel;______
+http://www.wikidata.org/entity/Q4458803;Ticha;____
+http://www.wikidata.org/entity/Q4459359;Todorovtsi (Oblast Veliko Tarnovo);_________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4461644;Trave;_____
+http://www.wikidata.org/entity/Q4461799;Trakiya;______
+http://www.wikidata.org/entity/Q4462798;Tri Mogili;___ ______
+http://www.wikidata.org/entity/Q4464069;Troyanovo (Oblast Stara Zagora);________ (______ _____ ______)
+http://www.wikidata.org/entity/Q4464658;Trankovo (Oblast Yambol);________ (______ _____)
+http://www.wikidata.org/entity/Q4464659;Trankovo;________
+http://www.wikidata.org/entity/Q4467127;Tarnava;_______
+http://www.wikidata.org/entity/Q4467139;Tarnovtsi;________
+http://www.wikidata.org/entity/Q4480316;Fabrika;_______
+http://www.wikidata.org/entity/Q4494555;Hadzhidimitrovo (Oblast Stara Zagora);______________ (______ _____ ______)
+http://www.wikidata.org/entity/Q4500660;Hrabrovo;________
+http://www.wikidata.org/entity/Q4501485;Hristovtsi (Oblast Veliko Tarnovo);_________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4502305;Huma;____
+http://www.wikidata.org/entity/Q4502661;Harsovo (Oblast Shumen);_______ (______ _____)
+http://www.wikidata.org/entity/Q4503127;Tsar Asen;___ ____
+http://www.wikidata.org/entity/Q4503128;Tsar Asen (Oblast Targovishte);___ ____ (______ _________)
+http://www.wikidata.org/entity/Q4503141;Tsarevets (Oblast Vratsa);_______ (______ _____)
+http://www.wikidata.org/entity/Q4503176;Tsarevtsi;_______
+http://www.wikidata.org/entity/Q4503489;Tsvetnitsa;________
+http://www.wikidata.org/entity/Q4506603;Chavdartsi (Oblast Veliko Tarnovo);________ (______ ______ _______)
+http://www.wikidata.org/entity/Q4506744;Chayka;_____
+http://www.wikidata.org/entity/Q4511874;Chepino;______
+http://www.wikidata.org/entity/Q4513203;Cherkovna;________
+http://www.wikidata.org/entity/Q4513204;Cherkovna;________
+http://www.wikidata.org/entity/Q4513205;Cherkovna;________
+http://www.wikidata.org/entity/Q4513208;Cherkovna;________
+http://www.wikidata.org/entity/Q4513276;Cherna Voda;_____ ____
+http://www.wikidata.org/entity/Q4513482;Cherni Vrah;_____ ____
+http://www.wikidata.org/entity/Q4513962;Chernozem;________
+http://www.wikidata.org/entity/Q4515414;Cheshma;_____
+http://www.wikidata.org/entity/Q4517852;Chukovets;_______
+http://www.wikidata.org/entity/Q4524131;Shipkovitsa;_________
+http://www.wikidata.org/entity/Q4538295;Yantra;_____
+http://www.wikidata.org/entity/Q4538529;Yarebitsa;_______
+http://www.wikidata.org/entity/Q4539164;Yasen;____
+http://www.wikidata.org/entity/Q4539210;Yasenovo;_______
+http://www.wikidata.org/entity/Q6703011;Temenuga (Oblast Veliko Tarnovo);________ (______ ______ _______)
+http://www.wikidata.org/entity/Q7214973;Razdelna;________
+http://www.wikidata.org/entity/Q7223337;Matenitsa;________
+http://www.wikidata.org/entity/Q7224960;Mechka (Oblast Pleven);_____ (______ ______)
+http://www.wikidata.org/entity/Q7240051;Lik;___
+http://www.wikidata.org/entity/Q7254699;Kozarevets;_________
+http://www.wikidata.org/entity/Q7261122;Kalenik;_______
+http://www.wikidata.org/entity/Q7264800;Iglika (Oblast Yambol);______ (______ _____)
+http://www.wikidata.org/entity/Q7272077;Zavoy;_____
+http://www.wikidata.org/entity/Q7279402;Dobrich;______
+http://www.wikidata.org/entity/Q7293934;Vladislav;_________
+http://www.wikidata.org/entity/Q12074184;Ilinden;_______
+http://www.wikidata.org/entity/Q12097397;Gradat;______
+http://www.wikidata.org/entity/Q12099731;Debelets;_______
+http://www.wikidata.org/entity/Q12101892;Dolna Vasilitsa;_____ ________
+http://www.wikidata.org/entity/Q12133279;Neykyovets;_________
+http://www.wikidata.org/entity/Q12140540;Parvan;______
+http://www.wikidata.org/entity/Q12140919;Q12140919;Q12140919
+http://www.wikidata.org/entity/Q12143991;Prespa;______
+http://www.wikidata.org/entity/Q12168477;Tseperanite;__________
+http://www.wikidata.org/entity/Q12169851;Cherkovishte;_________
+http://www.wikidata.org/entity/Q12275845;Varhari (Oblast Blagoevgrad);_______ (______ ___________)
+http://www.wikidata.org/entity/Q12294032;Slivovo (oblast Smolyan);_______ (______ ______)
+http://www.wikidata.org/entity/Q12295031;Stancha (Oblast Gabrovo);______ (______ _______)
+http://www.wikidata.org/entity/Q12297104;Tamrash (selo);______ (____)
+http://www.wikidata.org/entity/Q24574606;Dolno Panicherevo;_____ __________
+http://www.wikidata.org/entity/Q30097479;Vladovtsi;________
+http://www.wikidata.org/entity/Q30097496;Vlasatili;_________
+http://www.wikidata.org/entity/Q30097499;Valkovtsi;________
+http://www.wikidata.org/entity/Q30097502;Gaydari;_______
+http://www.wikidata.org/entity/Q30097532;Dzhurovtsi;________
+http://www.wikidata.org/entity/Q30097554;Irinetsi;_______
+http://www.wikidata.org/entity/Q30097558;Karandili;_________
+http://www.wikidata.org/entity/Q30097568;Nyushkovtsi;________
+http://www.wikidata.org/entity/Q30097570;Plazishte;_______
+http://www.wikidata.org/entity/Q30097572;Popovi livadi;______ ______
+http://www.wikidata.org/entity/Q43847185;Brestovets;_________
+http://www.wikidata.org/entity/Q61021266;Q61021266;Q61021266
+http://www.wikidata.org/entity/Q83272303;Banzareto;_________

@@ -1,0 +1,30 @@
+package dao;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import model.User;
+
+public class UserDao {
+
+	private static List<User> users;
+
+//	private int facultyNumber;
+//	private String firstName;
+//	private String lastName;
+//	private double score;
+//	private String userName;
+//	private String password;
+	static {
+		users = new ArrayList<>();
+		users.add(new User("21501", "Ivan", "Todorov", 4.6, "ivant", "Abcd1234"));
+		users.add(new User("21502", "Georgi", "Shopov", 5.3, "georgis", "Abcd1234"));
+		users.add(new User("21503", "Petar", "Ivanov", 6.0, "petari", "Abcd1234"));
+		users.add(new User("21504", "Penka", "Hristova", 3.5, "penkah", "Abcd1234"));
+		users.add(new User("21505", "Cvetelina", "Angelova", 5.5, "cvetelinaa", "Abcd1234"));
+		users.add(new User("21506", "Elena", "Karaivanova", 5.7, "elenak", "Abcd1234"));
+		users.add(new User("21507", "Stefan", "Qnev", 5.0, "stefanq", "Abcd1234"));
+		users.add(new User("21508", "Aleksandra", "Todorova", 6.0, "aleksandrat", "Abcd1234"));
+	}
+
+}

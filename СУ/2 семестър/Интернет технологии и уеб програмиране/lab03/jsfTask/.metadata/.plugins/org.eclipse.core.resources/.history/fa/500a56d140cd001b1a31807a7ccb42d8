@@ -1,0 +1,13 @@
+package statistics;
+
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ViewScoped;
+
+@ManagedBean(name = "studentInfo")
+@ViewScoped
+public class StudentInfo {
+
+	
+	
+	private String courseName
+}

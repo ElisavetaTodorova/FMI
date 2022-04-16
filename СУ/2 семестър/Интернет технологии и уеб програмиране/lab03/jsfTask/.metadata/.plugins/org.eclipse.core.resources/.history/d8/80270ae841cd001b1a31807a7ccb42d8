@@ -1,0 +1,48 @@
+package ranking;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+import javax.faces.bean.ApplicationScoped;
+import javax.faces.bean.ManagedBean;
+
+import dao.UserCourseService;
+
+@ManagedBean(name="raknkingService")
+@ApplicationScoped
+public class RaknkingService {
+	
+	
+	private List<StudentInfo> studentInfo;
+	
+	
+	
+
+	public RaknkingService() {
+		this.studentInfo = build();
+		
+		
+	}
+	
+	private List<StudentInfo> build() {
+		List<StudentInfo> studentInfo = new ArrayList<>();
+		
+		
+		Map<String, List<String>>  results = UserCourseService.getUserCourseResults();
+		return studentInfo;
+	}
+
+	public List<StudentInfo> getStudentInfo() {
+		return studentInfo;
+	}
+
+	public void setStudentInfo(List<StudentInfo> studentInfo) {
+		this.studentInfo = studentInfo;
+	}
+	
+	
+	
+	
+
+}

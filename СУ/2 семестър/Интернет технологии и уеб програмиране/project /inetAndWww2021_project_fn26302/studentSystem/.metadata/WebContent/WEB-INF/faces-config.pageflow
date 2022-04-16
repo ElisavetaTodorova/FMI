@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf16232206843620" configfile="/studentSystem/WebContent/WEB-INF/faces-config.xml">
+  <nodes xsi:type="pageflow:PFPage" name="login.xhtml" id="pf16235019629650" referenceLink="//@navigationRule.0/@fromViewId|" outlinks="pf16235019629651" path="/login.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="home.xhtml" id="pf16235019629652" referenceLink="//@navigationRule.1/@fromViewId|" outlinks="pf16235051930563 pf16235279518586 pf16238202370330" inlinks="pf16235019629651" path="/home.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="cources.xhtml" id="pf16235051930564" referenceLink="//@navigationRule.1/@navigationCase.0/@toViewId|" inlinks="pf16235051930563" path="/cources.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="statistics.xhtml" id="pf16235279518587" referenceLink="//@navigationRule.1/@navigationCase.1/@toViewId|" inlinks="pf16235279518586" path="/statistics.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="ranking.xhtml" id="pf16238202370331" referenceLink="//@navigationRule.1/@navigationCase.2/@toViewId|" inlinks="pf16238202370330" path="/ranking.xhtml"/>
+  <links id="pf16235019629651" target="pf16235019629652" source="pf16235019629650" outcome="home"/>
+  <links id="pf16235051930563" target="pf16235051930564" source="pf16235019629652" outcome="toCourses"/>
+  <links id="pf16235279518586" target="pf16235279518587" source="pf16235019629652" outcome="toStatistics"/>
+  <links id="pf16238202370330" target="pf16238202370331" source="pf16235019629652" outcome="toRanking"/>
+</pageflow:Pageflow>

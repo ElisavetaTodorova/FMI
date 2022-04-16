@@ -1,0 +1,36 @@
+package statistics;
+
+import java.io.Serializable;
+import java.util.List;
+
+import javax.annotation.PostConstruct;
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ViewScoped;
+import javax.inject.Inject;
+
+@ManagedBean(name = "dtRowGroupView")
+@ViewScoped
+public class RowGroupView implements Serializable {
+
+    private List<Customer> customers;
+
+    @Inject
+    private CustomerService service;
+
+    @PostConstruct
+    public void init() {
+        customers = service.getCustomers(50);
+    }
+
+    public long getTotalCount(String name) {
+        return customers.stream().filter(customers -> name.equals(customers.representative.name)).count();
+    }
+
+    public List<Customer> getCustomers() {
+        return customers;
+    }
+
+    public void setService(CustomerService service) {
+        this.service = service;
+    }
+}

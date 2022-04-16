@@ -1,0 +1,10 @@
+package statistics;
+
+public class Representative {
+	
+	private String name;
+	private String photoName;
+	
+	
+
+}

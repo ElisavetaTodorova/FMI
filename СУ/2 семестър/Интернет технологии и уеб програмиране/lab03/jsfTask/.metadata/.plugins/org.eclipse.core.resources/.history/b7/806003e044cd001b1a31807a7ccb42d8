@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui"
+	xmlns:f="http://xmlns.jcp.org/jsf/core">
+
+<h:head>
+
+	<title>Ranking</title>
+
+</h:head>
+
+<h:body>
+
+
+<div class="card">
+    <h5 class="first">Header Row</h5>
+    <h:form>
+        <p:dataTable var="info" value="#{dtRankingView.studentInfo}" sortBy="#{info.course.name}">
+            <p:headerRow field="course.name"
+                         expandable="true"
+                         expanded="#{info.course.name != 'Stephen Shaw'}">
+
+                <p:column colspan="6">
+                    <div class="p-d-inline-flex p-ai-center" style="vertical-align: middle">
+                        <!-- <p:graphicImage name="images/avatar/#{customer.representative.image}" library="demo" width="32" style="vertical-align: middle"/> -->
+                        <h:outputText styleClass="p-ml-2" value="#{info.course.name}"/>
+                    </div>
+                </p:column>
+            </p:headerRow>
+
+            <p:column headerText="Курс">
+                <h:outputText value="#{info.course.name}" />
+            </p:column>
+
+        <p:column headerText="Факултетен номер">
+               <h:outputText value="#{info.student.facultyNumber}" />
+            </p:column>
+            
+            <p:column headerText="Име на студента">
+                <h:outputText value="#{info.student.firstName} #{info.student.lastName}" />
+            </p:column>
+
+            <p:column headerText="Успех">
+               <h:outputText value="#{info.student.firstName} #{info.student.score}" />
+            </p:column>
+
+            <p:column headerText="Company">
+                <h:outputText value="#{customer.company}" />
+            </p:column>
+<!-- 
+            <p:column headerText="Status">
+                <span class="customer-badge status-#{customer.status.name().toLowerCase()}">#{customer.status}</span>
+            </p:column>
+
+            <p:column headerText="Date">
+                <h:outputText value="#{customer.date}">
+                    <f:convertDateTime pattern="MM/dd/yyyy" type="localDate"/>
+                </h:outputText>
+            </p:column>
+
+            <p:summaryRow>
+                <p:column colspan="5" style="text-align:right">
+                    <h:outputText value="Total Customers:"/>
+                </p:column>
+                <p:column>
+                    <h:outputText value="#{dtRowGroupView.getTotalCount(customer.representative.name)}"/>
+                </p:column>
+            </p:summaryRow> -->
+        </p:dataTable>
+    </h:form>
+</div>
+
+
+</h:body>
+
+</html>

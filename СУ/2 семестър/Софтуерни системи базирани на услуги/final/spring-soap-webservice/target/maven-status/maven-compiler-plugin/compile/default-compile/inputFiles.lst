@@ -1,0 +1,12 @@
+/Users/barrybantsova/Downloads/medium-articles-master/spring-soap-webservice/src/main/java/com/example/ws/model/package-info.java
+/Users/barrybantsova/Downloads/medium-articles-master/spring-soap-webservice/src/main/java/com/example/ws/configuration/CorsConfiguration.java
+/Users/barrybantsova/Downloads/medium-articles-master/spring-soap-webservice/src/main/java/com/example/ws/model/ObjectFactory.java
+/Users/barrybantsova/Downloads/medium-articles-master/spring-soap-webservice/src/main/java/com/example/ws/model/Output.java
+/Users/barrybantsova/Downloads/medium-articles-master/spring-soap-webservice/target/generated-sources/xjc/localhost/_9091/types/sendemailinput/ObjectFactory.java
+/Users/barrybantsova/Downloads/medium-articles-master/spring-soap-webservice/src/main/java/com/example/ws/configuration/SoapWebServiceConfiguration.java
+/Users/barrybantsova/Downloads/medium-articles-master/spring-soap-webservice/src/main/java/com/example/ws/MailSenderApplication.java
+/Users/barrybantsova/Downloads/medium-articles-master/spring-soap-webservice/target/generated-sources/xjc/localhost/_9091/types/sendemailinput/Output.java
+/Users/barrybantsova/Downloads/medium-articles-master/spring-soap-webservice/src/main/java/com/example/ws/endpoint/MailSender.java
+/Users/barrybantsova/Downloads/medium-articles-master/spring-soap-webservice/target/generated-sources/xjc/localhost/_9091/types/sendemailinput/package-info.java
+/Users/barrybantsova/Downloads/medium-articles-master/spring-soap-webservice/src/main/java/com/example/ws/model/SendEmailInput.java
+/Users/barrybantsova/Downloads/medium-articles-master/spring-soap-webservice/target/generated-sources/xjc/localhost/_9091/types/sendemailinput/SendEmailInput.java

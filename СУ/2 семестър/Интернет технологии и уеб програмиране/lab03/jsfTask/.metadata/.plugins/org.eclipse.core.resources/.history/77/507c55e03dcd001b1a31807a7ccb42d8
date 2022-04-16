@@ -1,0 +1,6 @@
+package statistics;
+
+public enum CustomerStatus {
+	RENEWAL, UNQUALIFIED, PROPOSAL, NEGOTIATION, QUALIFIED;
+
+}

@@ -1,0 +1,53 @@
+package statistics;
+
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ViewScoped;
+
+@ManagedBean(name = "studentInfo")
+@ViewScoped
+public class StudentInfo {
+
+	
+	
+	private String courseName;
+	private String facultyNumber;
+	private String stdentName;
+	private double score;
+	
+	public StudentInfo(String courseName, String facultyNumber, String stdentName, double score) {
+		super();
+		this.courseName = courseName;
+		this.facultyNumber = facultyNumber;
+		this.stdentName = stdentName;
+		this.score = score;
+	}
+	public String getCourseName() {
+		return courseName;
+	}
+	public void setCourseName(String courseName) {
+		this.courseName = courseName;
+	}
+	public String getFacultyNumber() {
+		return facultyNumber;
+	}
+	public void setFacultyNumber(String facultyNumber) {
+		this.facultyNumber = facultyNumber;
+	}
+	public String getStdentName() {
+		return stdentName;
+	}
+	public void setStdentName(String stdentName) {
+		this.stdentName = stdentName;
+	}
+	public double getScore() {
+		return score;
+	}
+	public void setScore(double score) {
+		this.score = score;
+	}
+	
+	
+	
+	
+	
+}

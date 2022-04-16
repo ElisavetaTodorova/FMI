@@ -1,0 +1,12 @@
+com/example/ws/endpoint/MailSender.class
+com/example/ws/MailSenderApplication.class
+com/example/ws/model/ObjectFactory.class
+com/example/ws/configuration/SoapWebServiceConfiguration.class
+com/example/ws/model/SendEmailInput.class
+com/example/ws/configuration/CorsConfiguration.class
+localhost/_9091/types/sendemailinput/package-info.class
+localhost/_9091/types/sendemailinput/SendEmailInput.class
+com/example/ws/model/package-info.class
+localhost/_9091/types/sendemailinput/ObjectFactory.class
+localhost/_9091/types/sendemailinput/Output.class
+com/example/ws/model/Output.class

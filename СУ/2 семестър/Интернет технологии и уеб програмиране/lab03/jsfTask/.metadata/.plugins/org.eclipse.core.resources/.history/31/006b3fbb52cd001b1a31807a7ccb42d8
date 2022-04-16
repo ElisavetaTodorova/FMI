@@ -1,0 +1,11 @@
+package statistics;
+
+public enum CustomerStatus {
+	RENEWAL, UNQUALIFIED, PROPOSAL, NEGOTIATION, QUALIFIED;
+
+	Representative random() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

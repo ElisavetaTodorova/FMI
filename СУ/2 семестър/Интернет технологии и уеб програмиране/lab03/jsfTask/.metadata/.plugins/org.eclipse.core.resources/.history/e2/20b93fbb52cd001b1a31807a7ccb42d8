@@ -1,0 +1,96 @@
+package statistics;
+
+import java.time.LocalDate;
+
+import javax.faces.bean.ManagedBean;
+
+@ManagedBean(name="customer")
+public class Customer {
+
+	private int id;
+	private String name;
+	private Country country;
+	private String company;
+	private LocalDate date;
+	private int activity;
+	Representative representative;
+	private CustomerStatus status;
+	
+	
+	
+
+	public Customer() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public Customer(int id, String name, Country country, String company, LocalDate date, CustomerStatus status, int activity,
+			Representative representative) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.country = country;
+		this.company = company;
+		this.date = date;
+		this.activity = activity;
+		this.representative = representative;
+		this.status = status;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public Country getCountry() {
+		return country;
+	}
+
+	public void setCountry(Country country) {
+		this.country = country;
+	}
+
+	public String getCompany() {
+		return company;
+	}
+
+	public void setCompany(String company) {
+		this.company = company;
+	}
+
+	public LocalDate getDate() {
+		return date;
+	}
+
+	public void setDate(LocalDate date) {
+		this.date = date;
+	}
+
+	public int getActivity() {
+		return activity;
+	}
+
+	public void setActivity(int activity) {
+		this.activity = activity;
+	}
+
+	public Representative getRepresentative() {
+		return representative;
+	}
+
+	public void setRepresentative(Representative representative) {
+		this.representative = representative;
+	}
+
+	public CustomerStatus getStatus() {
+		return status;
+	}
+
+	public void setStatus(CustomerStatus status) {
+		this.status = status;
+	}
+
+}

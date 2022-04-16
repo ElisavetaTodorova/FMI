@@ -1,0 +1,10 @@
+21501,Ivan,Todorov,4.6,ivant,Abcd1234,STUDENT
+21502,Georgi,Shopov,5.3,georgis,Abcd1234,STUDENT
+21503,Petar,Ivanov,6.0,petari,Abcd1234,STUDENT
+21504,Penka,Hristova,3.5,penkah,Abcd1234,STUDENT
+21505,Cvetelina,Angelova,5.5,cvetelinaa,Abcd1234,STUDENT
+21506,Elena,Karaivanova,5.7,elenak,Abcd1234,STUDENT
+21507,Stefan,Qnev,5.0,stefanq,Abcd1234,STUDENT
+21508,Aleksandra,Todorova,6.0,aleksandrat,Abcd1234,STUDENT
+21509,Svetla,Stoycheva,svetlas,Abcd1234,TEACHER
+21510,Hrsito,Zlatarev,hristoz,Abcd1234,TEACHER

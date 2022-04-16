@@ -1,0 +1,40 @@
+package ranking;
+
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ViewScoped;
+
+import model.User;
+
+@ManagedBean(name = "studentInfo")
+@ViewScoped
+public class StudentInfo {
+
+	
+	
+	private String courseName;
+	private User student;
+	
+	
+	
+	public StudentInfo(String courseName, User student) {
+		super();
+		this.courseName = courseName;
+		this.student = student;
+	}
+	public String getCourseName() {
+		return courseName;
+	}
+	public void setCourseName(String courseName) {
+		this.courseName = courseName;
+	}
+	public User getStudent() {
+		return student;
+	}
+	public void setStudent(User student) {
+		this.student = student;
+	}
+	
+	
+	
+	
+}

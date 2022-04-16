@@ -1,0 +1,1 @@
+Решението съдържа 3 chart-a: Donut, Pie и Polar Area

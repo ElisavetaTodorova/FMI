@@ -1,0 +1,17 @@
+1623221598366	Move 'login.xhtml' to 'WebContent'
+1623502076006	Delete element
+1623504124942	Move 'images' to 'resources'
+1623512255014	Rename type 'Product'
+1623512291590	Rename type 'ProductService'
+1623512303522	Rename field 'products'
+1623512418530	Rename method 'getProducts2'
+1623512427097	Rename field 'products2'
+1623512566481	Rename method 'getProducts'
+1623512578128	Rename method 'getClonedProducts'
+1623512590725	Rename method 'getClonedcOURSES'
+1623520244686	Rename field 'code'
+1623520261752	Rename local variable 'code'
+1623527819056	Move 'statistics.xhtml' to 'WebContent'
+1623527941798	Delete element
+1623574644194	Rename method 'getCourses'
+1623589347541	Rename local variable 'coursIds'

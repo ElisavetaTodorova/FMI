@@ -1,0 +1,32 @@
+package statistics;
+
+import javax.faces.bean.ManagedBean;
+
+@ManagedBean(name="representative")
+public class Representative {
+	
+	String name;
+	private String photoName;
+	
+	
+	public Representative(String name, String photoName) {
+		super();
+		this.name = name;
+		this.photoName = photoName;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getPhotoName() {
+		return photoName;
+	}
+	public void setPhotoName(String photoName) {
+		this.photoName = photoName;
+	}
+	
+	
+
+}

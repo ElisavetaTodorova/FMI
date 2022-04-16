@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:sen="http://localhost:9091/types/SendEmailInput">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <sen:SendEmailInput>
+            <sen:recipient>?</sen:recipient>
+            <sen:body>?</sen:body>
+        </sen:SendEmailInput>
+    </soapenv:Body>
+</soapenv:Envelope>

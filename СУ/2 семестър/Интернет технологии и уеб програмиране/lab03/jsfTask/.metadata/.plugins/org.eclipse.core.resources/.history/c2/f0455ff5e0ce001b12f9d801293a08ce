@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:p="http://primefaces.org/ui">
+
+<h:head>
+
+	<title>Ajax</title>
+
+</h:head>
+
+<h:body>
+
+<f:view> 
+
+ <h:form id="form">
+<h:panelGrid columns="2" cellpadding="5">  
+<h:outputLabel for="inline" value="Select Date" />  
+<p:calendar id="inline" value="#{calendar.date}" mode="popup" >
+
+</p:calendar>
+
+			<p:commandButton id="loginButton" action="#{calendar.calculateAge()}"
+					value="Count" update="sum" ajax="true" style="float: right;">
+				</p:commandButton>  
+<br />
+<h:outputText id="sum" value="Age is: #{calendar.age}"/>
+
+
+ 
+ 
+</h:panelGrid>  
+ <!--  <p:commandButton value="Submit" action="#{calendar.calculateAge()}" icon="pi pi-check"/> -->
+  </h:form>
+</f:view>
+
+</h:body>
+
+
+</html>

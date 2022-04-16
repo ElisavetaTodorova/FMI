@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/i338442/СУ/2 семестър/Интернет технологии и уеб програмиране/lab03/jsfTask/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2187682071.index
+3362476837.index
+2312205015.index
+3116299298.index
+3491323641.index
+635796710.index
+2887759206.index

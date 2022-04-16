@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project Author="Iva" CommentTableSortAscending="false" CommentTableSortColumn="Date Time" DocumentationType="html" ExportedFromDifferentName="false" ExporterVersion="16.1.1" Name="BookstoreManagment" TextualAnalysisHighlightOptionCaseSensitive="false" UmlVersion="2.x" Xml_structure="simple">
+	<ProjectInfo>
+		<OrmInfo DefaultDatabase="0" SupportDatabases="0"/>
+		<LogicalView/>
+		<ProjectOptions>
+			<DiagramOptions ActivityDiagramControlFlowDisplayOption="\u0000" ActivityDiagramShowActionCallBehaviorOption="\u0000" ActivityDiagramShowActivityEdgeWeight="true" ActivityDiagramShowObjectNodeType="true" ActivityDiagramShowPartitionHandle="\u0000" AddDataStoresExtEntitiesToDecomposedDFD="\u0002" AlignColumnProperties="true" AllowConfigShowInOutFlowButtonsInDataFlowDiagram="false" AutoGenerateRoleName="false" AutoSetAttributeType="true" AutoSetColumnType="true" AutoSyncRoleName="true" BpdAutoStretchPools="true" BpdConnectGatewayWithFlowObjectInDifferentPool="\u0000" BpdDefaultConnectionPointStyle="\u0001" BpdDefaultConnectorStyle="\u0005" BpdDhowIdOption="\u0000" BpdShowActivitiesTypeIcon="true" BusinessProcessDiagramDefaultLanguage="English" ClassVisibilityStyle="\u0001" ConnectorLabelOrientation="\u0000" CreateOneMessagePerDirection="true" DecisionMergeNodeConnectionPointStyle="\u0000" DefaultAssociationEndNavigable="\u0001" DefaultAssociationEndVisibility="\u0000" DefaultAssociationShowFromMultiplicity="true" DefaultAssociationShowFromRoleName="true" DefaultAssociationShowFromRoleVisibility="true" DefaultAssociationShowStereotypes="true" DefaultAssociationShowToMultiplicity="true" DefaultAssociationShowToRoleName="true" DefaultAssociationShowToRoleVisibility="true" DefaultAttributeMultiplicity="false" DefaultAttributeType="" DefaultAttributeVisibility="\u0001" DefaultClassAttributeMultiplicity="" DefaultClassAttributeMultiplicityOrdered="false" DefaultClassAttributeMultiplicityUnique="true" DefaultClassInterfaceBall="false" DefaultClassVisibility="\u0004" DefaultColumnType="integer(10)" DefaultConnectionPointStyle="\u0000" DefaultConnectorStyle="\u0001" DefaultDiagramBackground="rgb(255, 255, 255)" DefaultDisplayAsRobustnessAnalysisIcon="true" DefaultDisplayAsRobustnessAnalysisIconInSequenceDiagram="true" DefaultDisplayAsStereotypeIcon="false" DefaultFontColor="rgb(0, 0, 0)" DefaultGenDiagramTypeFromScenario="\u0000" DefaultHtmlDocFontColor="rgb(0, 0, 0)" DefaultLineJumps="\u0000" DefaultOperationVisibility="\u0004" DefaultParameterDirection="\u0002" DefaultShowAttributeInitialValue="true" DefaultShowAttributeOption="\u0001" DefaultShowClassMemberStereotype="true" DefaultShowDirection="false" DefaultShowMultiplicityConstraints="false" DefaultShowOperationOption="\u0001" DefaultShowOperationSignature="true" DefaultShowOrderedMultiplicityConstraint="true" DefaultShowOwnedAssociationEndAsAttribute="true" DefaultShowOwner="false" DefaultShowOwnerSkipModelInFullyQualifiedOwnerSignature="true" DefaultShowReceptionOption="\u0001" DefaultShowTemplateParameter="true" DefaultShowTypeOption="\u0001" DefaultShowUniqueMultiplicityConstraint="true" DefaultTypeOfSubProcess="\u0000" DefaultWrapClassMember="false" DrawTextAnnotationOpenRectangleFollowConnectorEnd="true" EnableMinimumSize="true" EntityColumnConstraintsPresentation="\u0002" ErdIndexNumOfDigits="-1" ErdIndexPattern="{table_name}" ErdIndexPatternSyncAutomatically="true" ErdManyToManyJoinTableDelimiter="_" EtlTableDiagramFontSize="14" ExpandedSubProcessDiagramContent="\u0001" ForeignKeyArrowHeadSize="\u0002" ForeignKeyConnectorEndPointAssociatedColumn="false" ForeignKeyNamePattern="{reference_table_name}{reference_column_name}" ForeignKeyNamePatternCaseHandling="0" ForeignKeyRelationshipPattern="{association_name}" FractionalMetrics="true" GeneralizationSetNotation="\u0001" GraphicAntiAliasing="true" GridDiagramFontSize="14" LineJumpSize="\u0000" ModelElementNameAlignment="\u0004" MultipleLineClassName="\u0001" PaintConnectorThroughLabel="false" PointConnectorEndToCompartmentMember="true" PrimaryKeyConstraintPattern="" PrimaryKeyNamePattern="ID" RenameConstructorAfterRenameClass="\u0000" RenameExtensionPointToFollowExtendUseCase="\u0000" ShapeAutoFitSize="false" ShowActivationsInSequenceDiagram="true" ShowActivityStateNodeCaption="524287" ShowArtifactOption="\u0002" ShowAssociatedDiagramNameOfInteraction="false" ShowAssociationRoleStereotypes="true" ShowAttributeGetterSetter="false" ShowBSElementCode="true" ShowClassEmptyCompartments="false" ShowColumnNullable="true" ShowColumnType="true" ShowColumnUniqueConstraintName="false" ShowColumnUserType="false" ShowComponentOption="\u0002" ShowExtraColumnProperties="true" ShowInOutFlowButtonsInDataFlowDiagram="false" ShowInOutFlowsInSubLevelDiagram="true" ShowMessageOperationSignatureForSequenceAndCommunicationDiagram="true" ShowMessageStereotypeInSequenceAndCommunicationDiagram="true" ShowNumberInCollaborationDiagram="true" ShowNumberInSequenceDiagram="true" ShowPackageNameStyle="\u0000" ShowParameterNameInOperationSignature="true" ShowRowGridLineWithinCompClassDiagram="false" ShowRowGridLineWithinCompERD="true" ShowRowGridLineWithinORMDiagram="true" ShowSchemaNameInERD="true" ShowTransitionTrigger="\u0000" ShowUseCaseExtensionPoint="true" ShowUseCaseID="false" StateShowParametersOfInternalActivities="false" StateShowPrePostConditionAndBodyOfInternalActivities="true" StopTargetLifelineOnCreateDestroyMessage="\u0002" SupportHtmlTaggedValue="false" SupportMultipleLineAttribute="true" SuppressImpliedMultiplicityForAttributeAssociationEnd="false" SyncAssociationNameWithAssociationClass="\u0000" SyncAssociationRoleNameWithReferencedAttributeName="true" SyncDocOfInterfaceToSubClass="\u0000" TextAntiAliasing="true" TextualAnalysisGenerateRequirementTextOption="\u0001" TextualAnalysisHighlightOption="\u0000" UnnamedIndexPattern="{table_name}_{column_name}" UseStateNameTab="false" WireflowDiagramDevice="0" WireflowDiagramShowActiveFlowLabel="true" WireflowDiagramTheme="0" WireflowDiagramWireflowShowPreview="true" WireflowDiagramWireflowShowScreenId="true">
+				<DefaultHtmlDocFont Family="Dialog" Size="11" Style="0"/>
+			</DiagramOptions>
+			<GeneralOptions ConfirmSubLevelIdWithDot="true" QuickAddGlossaryTermParentModelId="default"/>
+			<InstantReverseOptions CalculateGeneralizationAndRealization="false" CreateShapeForParentModelOfDraggedClassPackage="false" ReverseGetterSetter="\u0000" ReverseOperationImplementation="false" ShowPackageForNewDiagram="\u0001" ShowPackageOwner="\u0000"/>
+			<ModelQualityOptions EnableModelQualityChecking="false"/>
+			<ORMOptions DecimalPrecision="19" DecimalScale="0" ExportCommentToDatabase="true" FormattedSQL="false" GenerateAssociationWithAttribute="false" GenerateDiagramFromORMWizards="true" GetterSetterVisibility="\u0000" IdGeneratorType="native" MappingFileColumnOrder="\u0000" NumericToClassType="\u0000" QuoteSQLIdentifier="\u0000" RecreateShapeWhenSync="false" SyncToClassDiagramAttributeName="\u0001" SyncToClassDiagramAttributeNamePrefix="" SyncToClassDiagramAttributeNameSuffix="" SyncToClassDiagramClassName="\u0000" SyncToClassDiagramClassNamePrefix="" SyncToClassDiagramClassNameSuffix="" SyncToERDColumnName="\u0000" SyncToERDColumnNamePrefix="" SyncToERDColumnNameSuffix="" SyncToERDTableName="\u0004" SyncToERDTableNamePrefix="" SyncToERDTableNameSuffix="" SynchronizeDefaultValueToColumn="false" SynchronizeName="\u0002" TablePerSubclassFKMapping="\u0000" UpperCaseSQL="true" UseDefaultDecimal="true" WrappingServletRequest="\u0001"/>
+			<RequirementDiagramOptions DefaultWrapMember="false" ShowAttributes="\u0001" SupportHTMLAttribute="false"/>
+			<StateCodeEngineOptions AutoCreateInitialStateInStateDiagram="true" AutoCreateTransitionMethods="true" DefaultInitialStateLocationX="-1" DefaultInitialStateLocationY="-1" GenerateDebugMessage="false" GenerateSample="true" GenerateTryCatch="true" Language="\u0000" RegenerateTransitionMethods="false" SyncTransitionMethods="true"/>
+			<WarningOptions CreateORMClassInDefaultPackage="true"/>
+			<PORepository>
+				<POUserIDFormats>
+					<POUserIDFormat Digits="2" Guid="false" Id="4OXmNRqGAqACAgd0" LastNumericValue="13" ModelType="Actor" Prefix="AC" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="4OXmNRqGAqACAgdz" LastNumericValue="0" ModelType="BPMNElement" Prefix="BP" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="EOXmNRqGAqACAgd3" LastNumericValue="0" ModelType="BusinessRule" Prefix="BR" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="EOXmNRqGAqACAgd2" LastNumericValue="0" ModelType="Requirement" Prefix="REQ" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="EOXmNRqGAqACAgd1" LastNumericValue="30" ModelType="UseCase" Prefix="UC" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="N_SfxdcGAqAAZArE" LastNumericValue="0" ModelType="PERTTask" Prefix="" Suffix=""/>
+					<POUserIDFormat Digits="-1" Guid="false" Id="t_SfxdcGAqAAZArE" LastNumericValue="0" ModelType="BusinessProcessDiagram" Prefix="" Suffix=""/>
+				</POUserIDFormats>
+			</PORepository>
+		</ProjectOptions>
+	</ProjectInfo>
+	<Models>
+		<ModelRelationshipContainer BacklogActivityId="0" Documentation_plain="" Id="O9sy3RqGAqACAgbR" Name="relationships" PmAuthor="the_d" PmCreateDateTime="2016-12-01T18:52:06.236" PmLastModified="2020-01-15T00:08:58.554" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+			<ModelChildren>
+				<ModelRelationshipContainer BacklogActivityId="0" Documentation_plain="" Id="zVJYZfaGAqACAh.M" Name="InteractionLifeLineLink" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:08:58.547" PmLastModified="2020-01-15T00:37:07.927" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+					<ModelChildren>
+						<InteractionLifeLineLink BacklogActivityId="0" Documentation_plain="" EndRelationshipFromMetaModelElement="z5JYZfaGAqACAh8v" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="K9LYZfaGAqACAh_p" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:10:04.372" PmLastModified="2020-01-15T00:14:53.772" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+							<FromEnd>
+								<InteractionLifeLineLinkEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="K9LYZfaGAqACAh_q" Instance_IsNull="true" Multiplicity="Unspecified" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:10:04.372" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</FromEnd>
+							<ToEnd>
+								<InteractionLifeLineLinkEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="K9LYZfaGAqACAh_r" Instance_IsNull="true" Multiplicity="Unspecified" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:10:04.372" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</ToEnd>
+							<ModelChildren>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="z5JYZfaGAqACAh8v" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="u9LYZfaGAqACAh_w" Name="calculateBestDeliveryPrice()" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:10:04.381" PmLastModified="2020-01-15T00:14:53.773" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="1" Type="Self Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="u9LYZfaGAqACAh_x" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:10:04.381" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="u9LYZfaGAqACAh_y" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:10:04.381" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+								</Message>
+							</ModelChildren>
+						</InteractionLifeLineLink>
+						<InteractionLifeLineLink BacklogActivityId="0" Documentation_plain="" EndRelationshipFromMetaModelElement="K35YZfaGAqACAh.4" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="zwN4ZfaGAqACAiB." PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:13:50.963" PmLastModified="2020-01-15T00:14:53.774" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+							<FromEnd>
+								<InteractionLifeLineLinkEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="K35YZfaGAqACAh.4" Id="zwN4ZfaGAqACAiB_" Instance_IsNull="true" Multiplicity="Unspecified" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:13:50.963" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</FromEnd>
+							<ToEnd>
+								<InteractionLifeLineLinkEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="zwN4ZfaGAqACAiCA" Instance_IsNull="true" Multiplicity="Unspecified" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:13:50.963" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</ToEnd>
+							<ModelChildren>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="K35YZfaGAqACAh.4" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="_wN4ZfaGAqACAiCF" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:13:50.975" PmLastModified="2020-01-15T00:14:53.774" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="4" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="K35YZfaGAqACAh.4" Id="_wN4ZfaGAqACAiCG" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:13:50.975" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="_wN4ZfaGAqACAiCH" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:13:50.975" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+								</Message>
+							</ModelChildren>
+						</InteractionLifeLineLink>
+						<InteractionLifeLineLink BacklogActivityId="0" Documentation_plain="" EndRelationshipFromMetaModelElement="K35YZfaGAqACAh.4" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="EYP4ZfaGAqACAiDP" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:14:56.648" PmLastModified="2020-01-15T00:41:33.661" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+							<FromEnd>
+								<InteractionLifeLineLinkEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="K35YZfaGAqACAh.4" Id="EYP4ZfaGAqACAiDQ" Instance_IsNull="true" Multiplicity="Unspecified" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:14:56.648" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</FromEnd>
+							<ToEnd>
+								<InteractionLifeLineLinkEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="EYP4ZfaGAqACAiDR" Instance_IsNull="true" Multiplicity="Unspecified" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:14:56.648" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</ToEnd>
+							<MasterView>
+								<InteractionLifeLineLink Idref="sYP4ZfaGAqACAiDS"/>
+							</MasterView>
+							<ModelChildren>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="K35YZfaGAqACAh.4" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="CMv4ZfaGAqACAiDW" Name="sendPendingOrder()" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:15:01.136" PmLastModified="2020-01-15T00:31:45.144" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="1" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="K35YZfaGAqACAh.4" Id="CMv4ZfaGAqACAiDX" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:15:01.136" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="CMv4ZfaGAqACAiDY" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:15:01.136" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationMessage Idref="CMv4ZfaGAqACAiDV" Name="sendPendingOrder()"/>
+									</MasterView>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="z5JYZfaGAqACAh8v" EndRelationshipToMetaModelElement="K35YZfaGAqACAh.4" Id="2T7EZfaGAqACAiHg" Name="orderSend" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:19:01.147" PmLastModified="2020-01-15T00:21:08.224" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="4" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="2T7EZfaGAqACAiHh" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:19:01.147" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="K35YZfaGAqACAh.4" Id="2T7EZfaGAqACAiHi" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:19:01.147" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationReverseMessage Idref="2T7EZfaGAqACAiHf" Name="orderSend"/>
+									</MasterView>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="K35YZfaGAqACAh.4" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="_tmkZfaGAqACAiJt" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:21:20.127" PmLastModified="2020-01-15T00:31:45.142" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="6" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="K35YZfaGAqACAh.4" Id="_tmkZfaGAqACAiJu" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:21:20.127" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="_tmkZfaGAqACAiJv" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:21:20.127" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationMessage Idref="_tmkZfaGAqACAiJs" Name=""/>
+									</MasterView>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="K35YZfaGAqACAh.4" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="9Hl0ZfaGAqACAgh6" Name="removePendingOrder()" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:31:10.639" PmLastModified="2020-01-15T00:43:28.246" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="8" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="K35YZfaGAqACAh.4" Id="9Hl0ZfaGAqACAgh7" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:31:10.639" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="9Hl0ZfaGAqACAgh8" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:31:10.639" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationMessage Idref="9Hl0ZfaGAqACAgh5" Name="removePendingOrder()"/>
+									</MasterView>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="K35YZfaGAqACAh.4" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="iGV0ZfaGAqACAgiI" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:31:12.657" PmLastModified="2020-01-15T00:31:45.146" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="9" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="K35YZfaGAqACAh.4" Id="iGV0ZfaGAqACAgiJ" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:31:12.657" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="iGV0ZfaGAqACAgiK" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:31:12.657" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationMessage Idref="iGV0ZfaGAqACAgiH" Name=""/>
+									</MasterView>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="z5JYZfaGAqACAh8v" EndRelationshipToMetaModelElement="K35YZfaGAqACAh.4" Id="raaMZfaGAqACAggb" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:34:12.789" PmLastModified="2020-01-15T00:35:16.504" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="10" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="raaMZfaGAqACAggc" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:34:12.789" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="K35YZfaGAqACAh.4" Id="raaMZfaGAqACAggd" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:34:12.789" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationReverseMessage Idref="raaMZfaGAqACAgga" Name=""/>
+									</MasterView>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="K35YZfaGAqACAh.4" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="IqEsZfaGAqACAgn3" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:37:37.476" PmLastModified="2020-01-15T00:37:57.057" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="11" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="K35YZfaGAqACAh.4" Id="IqEsZfaGAqACAgn4" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:37:37.476" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="IqEsZfaGAqACAgn5" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:37:37.476" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationMessage Idref="IqEsZfaGAqACAgn2" Name=""/>
+									</MasterView>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="z5JYZfaGAqACAh8v" EndRelationshipToMetaModelElement="K35YZfaGAqACAh.4" Id="W7EsZfaGAqACAgoF" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:37:39.674" PmLastModified="2020-01-15T00:37:57.056" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="12" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="W7EsZfaGAqACAgoG" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:37:39.674" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="K35YZfaGAqACAh.4" Id="W7EsZfaGAqACAgoH" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:37:39.674" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationReverseMessage Idref="W7EsZfaGAqACAgoE" Name=""/>
+									</MasterView>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="z5JYZfaGAqACAh8v" EndRelationshipToMetaModelElement="K35YZfaGAqACAh.4" Id="mGfsZfaGAqACAgzj" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:41:18.873" PmLastModified="2020-01-15T00:41:33.661" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="13" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="mGfsZfaGAqACAgzk" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:41:18.873" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="K35YZfaGAqACAh.4" Id="mGfsZfaGAqACAgzl" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:41:18.873" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationReverseMessage Idref="GGfsZfaGAqACAgzi" Name=""/>
+									</MasterView>
+								</Message>
+							</ModelChildren>
+						</InteractionLifeLineLink>
+						<InteractionLifeLineLink BacklogActivityId="0" Documentation_plain="" EndRelationshipFromMetaModelElement="dGPYZfaGAqACAiAC" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="uLiEZfaGAqACAiE_" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:16:25.629" PmLastModified="2020-01-15T00:23:08.450" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+							<FromEnd>
+								<InteractionLifeLineLinkEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="dGPYZfaGAqACAiAC" Id="uLiEZfaGAqACAiFA" Instance_IsNull="true" Multiplicity="Unspecified" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:16:25.629" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</FromEnd>
+							<ToEnd>
+								<InteractionLifeLineLinkEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="uLiEZfaGAqACAiFB" Instance_IsNull="true" Multiplicity="Unspecified" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:16:25.629" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</ToEnd>
+							<MasterView>
+								<InteractionLifeLineLink Idref="hLiEZfaGAqACAiFC"/>
+							</MasterView>
+							<ModelChildren>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="z5JYZfaGAqACAh8v" EndRelationshipToMetaModelElement="dGPYZfaGAqACAiAC" Id="NH2EZfaGAqACAiFk" Name="getDeliveryPrice()" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:17:06.860" PmLastModified="2020-01-15T00:17:31.707" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="2" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="NH2EZfaGAqACAiFl" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:17:06.860" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="dGPYZfaGAqACAiAC" Id="NH2EZfaGAqACAiFm" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:17:06.860" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationReverseMessage Idref="NH2EZfaGAqACAiFj" Name="getDeliveryPrice()"/>
+									</MasterView>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="dGPYZfaGAqACAiAC" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="ZbeEZfaGAqACAiF4" Name="getDeliveryPrice()" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:17:19.014" PmLastModified="2020-01-15T00:19:21.524" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="3" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="dGPYZfaGAqACAiAC" Id="ZbeEZfaGAqACAiF5" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:17:19.014" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="ZbeEZfaGAqACAiF6" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:17:19.014" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="dGPYZfaGAqACAiAC" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="oklEZfaGAqACAiGh" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:18:01.157" PmLastModified="2020-01-15T00:19:21.524" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="4" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="dGPYZfaGAqACAiAC" Id="oklEZfaGAqACAiGi" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:18:01.157" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="oklEZfaGAqACAiGj" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:18:01.157" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="dGPYZfaGAqACAiAC" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="AZ9EZfaGAqACAiHG" Name="getDeliveryPrice()" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:18:27.584" PmLastModified="2020-01-15T00:19:21.522" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="3" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="dGPYZfaGAqACAiAC" Id="AZ9EZfaGAqACAiHH" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:18:27.584" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="AZ9EZfaGAqACAiHI" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:18:27.584" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationMessage Idref="AZ9EZfaGAqACAiHF" Name="getDeliveryPrice()"/>
+									</MasterView>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="z5JYZfaGAqACAh8v" EndRelationshipToMetaModelElement="dGPYZfaGAqACAiAC" Id="856kZfaGAqACAiJc" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:21:11.503" PmLastModified="2020-01-15T00:23:08.449" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="5" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="856kZfaGAqACAiJd" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:21:11.503" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="dGPYZfaGAqACAiAC" Id="856kZfaGAqACAiJe" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:21:11.503" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationReverseMessage Idref="856kZfaGAqACAiJb" Name=""/>
+									</MasterView>
+								</Message>
+							</ModelChildren>
+						</InteractionLifeLineLink>
+						<InteractionLifeLineLink BacklogActivityId="0" Documentation_plain="" EndRelationshipFromMetaModelElement="z5JYZfaGAqACAh8v" EndRelationshipToMetaModelElement="dGPYZfaGAqACAiAC" Id="JuOkZfaGAqACAiJ." PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:21:31.364" PmLastModified="2020-01-15T00:45:17.089" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+							<FromEnd>
+								<InteractionLifeLineLinkEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="JuOkZfaGAqACAiJ_" Instance_IsNull="true" Multiplicity="Unspecified" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:21:31.364" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</FromEnd>
+							<ToEnd>
+								<InteractionLifeLineLinkEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="dGPYZfaGAqACAiAC" Id="JuOkZfaGAqACAiKA" Instance_IsNull="true" Multiplicity="Unspecified" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:21:31.364" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</ToEnd>
+							<MasterView>
+								<InteractionLifeLineLink Idref="luOkZfaGAqACAiKB"/>
+							</MasterView>
+							<ModelChildren>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="dGPYZfaGAqACAiAC" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="bfzkZfaGAqACAiLa" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:23:07.702" PmLastModified="2020-01-15T00:24:16.647" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="7" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="dGPYZfaGAqACAiAC" Id="bfzkZfaGAqACAiLb" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:23:07.702" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="bfzkZfaGAqACAiLc" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:23:07.702" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="z5JYZfaGAqACAh8v" EndRelationshipToMetaModelElement="dGPYZfaGAqACAiAC" Id="nO3kZfaGAqACAiML" Name="sendOrder()" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:23:38.297" PmLastModified="2020-01-15T00:42:44.603" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="7" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="nO3kZfaGAqACAiMM" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:23:38.297" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="dGPYZfaGAqACAiAC" Id="nO3kZfaGAqACAiMN" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:23:38.297" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationMessage Idref="nO3kZfaGAqACAiMK" Name="sendOrder()"/>
+									</MasterView>
+								</Message>
+								<Message Asynchronous="false" BacklogActivityId="0" Documentation_plain="" DurationHeight="30" EndRelationshipFromMetaModelElement="dGPYZfaGAqACAiAC" EndRelationshipToMetaModelElement="z5JYZfaGAqACAh8v" Id="vodcZfaGAqACAhHR" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:44:34.301" PmLastModified="2020-01-15T00:45:17.085" QualityReason_IsNull="true" QualityScore="-1" SequenceNumber="14" Type="Message" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<FromEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="dGPYZfaGAqACAiAC" Id="vodcZfaGAqACAhHS" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:44:34.301" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</FromEnd>
+									<ToEnd>
+										<MessageEnd BacklogActivityId="0" Documentation_plain="" EndModelElement="z5JYZfaGAqACAh8v" Id="vodcZfaGAqACAhHT" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:44:34.301" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+									</ToEnd>
+									<MasterView>
+										<CommunicationReverseMessage Idref="PodcZfaGAqACAhHQ" Name=""/>
+									</MasterView>
+								</Message>
+							</ModelChildren>
+						</InteractionLifeLineLink>
+					</ModelChildren>
+				</ModelRelationshipContainer>
+			</ModelChildren>
+		</ModelRelationshipContainer>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="f6XmNRqGAqACAgVU" Name="int" PmAuthor="" PmCreateDateTime="2017-06-21T18:09:47.445" PmLastModified="2017-06-22T15:44:54.399" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="f6XmNRqGAqACAgVY" Name="string" PmAuthor="" PmCreateDateTime="2017-06-21T18:09:47.446" PmLastModified="2017-06-22T15:44:54.325" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="f6XmNRqGAqACAgVX" Name="void" PmAuthor="" PmCreateDateTime="2017-06-21T18:09:47.446" PmLastModified="2017-06-22T15:44:54.326" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="f6XmNRqGAqACAgVS" Name="double" PmAuthor="" PmCreateDateTime="2017-06-21T18:09:47.444" PmLastModified="2017-06-22T15:44:54.446" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="y.k5.xqGAqAAZArF" Name="boolean" PmAuthor="" PmCreateDateTime="2017-06-21T18:09:47.441" PmLastModified="2017-06-22T15:44:54.371" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="K.k5.xqGAqAAZArG" Name="byte" PmAuthor="" PmCreateDateTime="2017-06-21T18:09:47.443" PmLastModified="2017-06-22T15:44:54.427" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="G.k5.xqGAqAAZArH" Name="char" PmAuthor="" PmCreateDateTime="2017-06-21T18:09:47.443" PmLastModified="2017-06-22T15:44:54.427" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="m.k5.xqGAqAAZArJ" Name="float" PmAuthor="" PmCreateDateTime="2017-06-21T18:09:47.444" PmLastModified="2017-06-22T15:44:54.445" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="W.k5.xqGAqAAZArL" Name="long" PmAuthor="" PmCreateDateTime="2017-06-21T18:09:47.445" PmLastModified="2017-06-22T15:44:54.399" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="W.k5.xqGAqAAZArM" Name="short" PmAuthor="" PmCreateDateTime="2017-06-21T18:09:47.446" PmLastModified="2017-06-22T15:44:54.327" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<Model Abstract="false" BacklogActivityId="0" ConnectToCodeModel="1" Documentation_plain="" Id="D5JYZfaGAqACAh8t" Leaf="false" Name="Communication Diagram - Hotel Reservation" PmAuthor="" PmCreateDateTime="2017-06-22T08:11:06.609" PmLastModified="2020-01-15T02:27:16.865" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true">
+			<SubDiagrams>
+				<CommunicationDiagram Idref="xFJYZfaGAqACAh9w"/>
+			</SubDiagrams>
+			<ModelChildren>
+				<Frame BacklogActivityId="0" BaseY="40" Documentation_plain="" Id="T5JYZfaGAqACAh8u" Name="addOrder" PmAuthor="" PmCreateDateTime="2017-06-22T08:11:26.750" PmLastModified="2020-01-15T00:45:17.086" QualityReason_IsNull="true" QualityScore="-1" Type="sd" UserIDLastNumericValue="0" UserID_IsNull="true">
+					<ModelChildren>
+						<InteractionLifeLine Active="false" BacklogActivityId="0" Class="false" ClassLevelStereotype="false" Documentation_plain="" Id="z5JYZfaGAqACAh8v" MultiObject="false" Multiplicity="Unspecified" Name="Bookstore manager" PmAuthor="" PmCreateDateTime="2017-06-22T08:15:07.677" PmLastModified="2020-01-15T00:45:17.088" QualityReason_IsNull="true" QualityScore="-1" Stopped="false" UserIDLastNumericValue="0" UserID_IsNull="true">
+							<MasterView>
+								<CommunicationLifeLine Idref="1FJYZfaGAqACAh96" Name="Bookstore manager"/>
+							</MasterView>
+						</InteractionLifeLine>
+						<InteractionActor Abstract="false" Active="false" BacklogActivityId="0" BusinessModel="false" Documentation_plain="" Id="K35YZfaGAqACAh.4" Leaf="false" Name="Bookstore" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:09:11.892" PmLastModified="2020-01-15T00:41:33.662" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+							<MasterView>
+								<CommunicationActor Idref="K35YZfaGAqACAh.3" Name="Bookstore"/>
+							</MasterView>
+						</InteractionActor>
+						<InteractionActor Abstract="false" Active="false" BacklogActivityId="0" BusinessModel="false" Documentation_plain="" Id="dGPYZfaGAqACAiAC" Leaf="false" Name="Partner" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:10:35.694" PmLastModified="2020-01-15T00:47:35.219" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+							<MasterView>
+								<CommunicationActor Idref="dGPYZfaGAqACAiAB" Name="Partner"/>
+							</MasterView>
+						</InteractionActor>
+					</ModelChildren>
+				</Frame>
+				<ShapeEditorShape BacklogActivityId="0" Documentation_plain="" Id="pyOsZfaGAqACAgpd" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:38:59.301" PmLastModified="2020-01-15T00:39:32.166" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+					<MasterView>
+						<SECurveShape Idref="JyOsZfaGAqACAgpc" Name=""/>
+					</MasterView>
+				</ShapeEditorShape>
+				<ShapeEditorShape BacklogActivityId="0" Documentation_plain="" Id="JDusZfaGAqACAgpn" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:39:05.252" PmLastModified="2020-01-15T00:39:32.168" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+					<MasterView>
+						<SECurveShape Idref="xDusZfaGAqACAgpm" Name=""/>
+					</MasterView>
+				</ShapeEditorShape>
+				<ShapeEditorShape BacklogActivityId="0" Documentation_plain="" Id="YU.sZfaGAqACAgpx" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:39:10.982" PmLastModified="2020-01-15T00:39:32.170" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+					<MasterView>
+						<SECurveShape Idref="YU.sZfaGAqACAgpw" Name=""/>
+					</MasterView>
+				</ShapeEditorShape>
+				<ShapeEditorShape BacklogActivityId="0" Documentation_plain="" Id="c4BsZfaGAqACAgp7" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:39:14.894" PmLastModified="2020-01-15T00:39:32.171" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+					<MasterView>
+						<SECurveShape Idref="c4BsZfaGAqACAgp6" Name=""/>
+					</MasterView>
+				</ShapeEditorShape>
+			</ModelChildren>
+		</Model>
+		<ShapeEditorShape BacklogActivityId="0" Documentation_plain="" Id="m1ZcZfaGAqACAhC7" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:44:03.929" PmLastModified="2020-01-15T00:44:13.978" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+			<MasterView>
+				<SECurveShape Idref="m1ZcZfaGAqACAhC6" Name=""/>
+			</MasterView>
+		</ShapeEditorShape>
+		<ShapeEditorShape BacklogActivityId="0" Documentation_plain="" Id="t1ZcZfaGAqACAhDD" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:44:03.949" PmLastModified="2020-01-15T00:44:13.976" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+			<MasterView>
+				<SECurveShape Idref="N1ZcZfaGAqACAhDC" Name=""/>
+			</MasterView>
+		</ShapeEditorShape>
+		<ShapeEditorShape BacklogActivityId="0" Documentation_plain="" Id="X1ZcZfaGAqACAhDJ" Name="" PmAuthor="i338442" PmCreateDateTime="2020-01-15T00:44:03.962" PmLastModified="2020-01-15T00:44:13.977" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+			<MasterView>
+				<SECurveShape Idref="X1ZcZfaGAqACAhDI" Name=""/>
+			</MasterView>
+		</ShapeEditorShape>
+	</Models>
+	<Diagrams>
+		<CommunicationDiagram AlignToGrid="false" AutoFitShapesSize="false" ConnectionPointStyle="0" ConnectorLabelOrientation="0" ConnectorLineJumps="0" ConnectorLineJumpsSize="0" ConnectorModelElementNameAlignment="4" ConnectorStyle="1" CreateOneMessagePerDirection="true" DiagramBackground="rgb(255, 255, 255)" Editable="true" FollowDiagramParentElement="true" GridColor="rgb(192, 192, 192)" GridHeight="10" GridVisible="false" GridWidth="10" Height="867" HideConnectorIfFromToIsHidden="0" HideEmptyTaggedValues="false" Id="xFJYZfaGAqACAh9w" ImageHeight="0" ImageScale="1.0" ImageWidth="0" InitializeDiagramForCreate="true" InteractionLifeLinePresentationOption="0" Maximized="true" ModelElementNameAlignment="4" Name="addOrder" PaintConnectorThroughLabel="1" ParentModel="D5JYZfaGAqACAh8t" PmAuthor="" PmCreateDateTime="2017-06-22T08:11:26.739" PmLastModified="2020-01-15T00:47:25.016" PointConnectorEndToCompartmentMember="true" QualityScore="-1" RequestFitSizeWithPromptUser="false" RequestValidateSnapToGrid="false" ShapePresentationOption="0" ShowActivityStateNodeCaption="65535" ShowAllocatedFrom="true" ShowAllocatedTo="true" ShowArgumentsInMessagesOperationSignature="true" ShowColorLegend="false" ShowConnectorLegend="false" ShowConnectorName="0" ShowConstraints="false" ShowDefaultPackage="false" ShowInformationItemOption="2" ShowMessagesOperationSignature="true" ShowPMAuthor="false" ShowPMDifficulty="false" ShowPMDiscipline="false" ShowPMIteration="false" ShowPMPhase="false" ShowPMPriority="false" ShowPMStatus="false" ShowPMVersion="false" ShowPackageNameStyle="0" ShowParameterNamesInMessageOperationSignature="true" ShowParameterTypesInMessageOperationSignature="true" ShowSequenceNumbers="true" ShowShapeLegend="false" ShowShapeStereotypeIconName="true" ShowStereotypes="true" ShowTaggedValues="false" TeamworkAuthor="Jick Yeung" TeamworkCreateDateTime="1498117490288" TrimmedHeight="0" TrimmedWidth="0" Width="1654" X="0" Y="0" ZoomRatio="1.0" _globalPaletteOption="true" _rootFrame="T5JYZfaGAqACAh8u" documentation="&lt;html&gt;&#10;  &lt;head&gt;&#10;    &lt;style type=&quot;text/css&quot;&gt;&#10;      &lt;!--&#10;        body { color: #000000; font-family: Dialog; font-size: 11px }&#10;      --&gt;&#10;    &lt;/style&gt;&#10;    &#10;  &lt;/head&gt;&#10;  &lt;body&gt;&#10;    &lt;p&gt;&#10;      &#10;    &lt;/p&gt;&#10;  &lt;/body&gt;&#10;&lt;/html&gt;&#10;">
+			<Shapes>
+				<CommunicationActor Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="dGPYZfaGAqACAiAB" MetaModelElement="dGPYZfaGAqACAiAC" Model="dGPYZfaGAqACAiAC" ModelElementNameAlignment="9" Name="Partner" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="30" X="762" Y="563" ZOrder="44">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="South" Visible="true" Width="59" X="748" Y="623"/>
+					<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+				</CommunicationActor>
+				<CommunicationActor Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="K35YZfaGAqACAh.3" MetaModelElement="K35YZfaGAqACAh.4" Model="K35YZfaGAqACAh.4" ModelElementNameAlignment="9" Name="Bookstore" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="30" X="120" Y="182" ZOrder="46">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="South" Visible="true" Width="74" X="98" Y="242"/>
+					<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+				</CommunicationActor>
+				<CommunicationLifeLine Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="40" Id="1FJYZfaGAqACAh96" MetaModelElement="z5JYZfaGAqACAh8v" Model="z5JYZfaGAqACAh8v" ModelElementNameAlignment="9" Name="Bookstore manager" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="143" X="754" Y="211" ZOrder="48">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="143" X="0" Y="0"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+				</CommunicationLifeLine>
+				<SECurveShape ActConnector="false" Alpha="1.0" Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DrawBy="2" Foreground="rgb(0, 0, 0)" Height="12" Id="JyOsZfaGAqACAgpc" MetaModelElement="pyOsZfaGAqACAgpd" Model="pyOsZfaGAqACAgpd" ModelElementNameAlignment="9" Name="" NodeName="VPCurveShape" NotUseVisibleBounds="false" ObjectId="1" ObjectType="9096" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" RotateAngle="0.0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="56" X="58" Y="208" ZOrder="18">
+					<FontFormat fontColor="rgb(0, 0, 0)" objectId="0" objectType="520">
+						<Font name="Dialog" size="11" style="0"/>
+					</FontFormat>
+					<Label location="Pt:86.0,214.0" objectId="0" objectType="1" text=""/>
+					<Shadow objectId="0" objectType="0" transparency="0" tx="0.0" ty="0.0" type="0">
+						<FillFormat objectId="0" objectType="9510" renderStyle="1">
+							<AffineTransformMatrix>
+								<Matrix value="1.0"/>
+								<Matrix value="0.0"/>
+								<Matrix value="0.0"/>
+								<Matrix value="1.0"/>
+								<Matrix value="0.0"/>
+								<Matrix value="0.0"/>
+							</AffineTransformMatrix>
+							<Render color="rgb(0, 0, 0)"/>
+						</FillFormat>
+					</Shadow>
+					<ShapeBasePoint point="Pt:86.0,214.0"/>
+					<Arrow endArrow="0" objectId="0" objectType="500" startArrow="0"/>
+					<LineFormat color="rgb(0, 0, 0)" objectId="0" objectType="505" style="91" width="1.0">
+						<Stroke cap="0" dashPhase="0.0" join="2" miterlimit="0.0" type="0" width="1.0"/>
+					</LineFormat>
+					<FillFormat objectId="0" objectType="9510" renderStyle="1">
+						<AffineTransformMatrix>
+							<Matrix value="1.0"/>
+							<Matrix value="0.0"/>
+							<Matrix value="0.0"/>
+							<Matrix value="1.0"/>
+							<Matrix value="0.0"/>
+							<Matrix value="0.0"/>
+						</AffineTransformMatrix>
+						<Render color="rgba(153, 204, 255, 0.0)"/>
+					</FillFormat>
+					<CurveList objectId="0" objectType="9201" windingRule="0">
+						<Curves>
+							<Curve controlPoint1="Pt:97.0,214.0" controlPoint2="Pt:75.0,214.0" endPoint="Pt:64.0,214.0" objectId="1" startPoint="Pt:108.0,214.0"/>
+						</Curves>
+					</CurveList>
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Invisible" Visible="false" Width="40" X="0" Y="0"/>
+					<FillColor Color="rgba(153, 204, 255, 0.0)" Style="1" Transparency="100" Type="1"/>
+				</SECurveShape>
+				<SECurveShape ActConnector="false" Alpha="1.0" Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DrawBy="2" Foreground="rgb(0, 0, 0)" Height="102" Id="xDusZfaGAqACAgpm" MetaModelElement="JDusZfaGAqACAgpn" Model="JDusZfaGAqACAgpn" ModelElementNameAlignment="9" Name="" NodeName="VPCurveShape" NotUseVisibleBounds="false" ObjectId="2" ObjectType="9096" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" RotateAngle="0.0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="13" X="57" Y="209" ZOrder="16">
+					<FontFormat fontColor="rgb(0, 0, 0)" objectId="0" objectType="520">
+						<Font name="Dialog" size="11" style="0"/>
+					</FontFormat>
+					<Label location="Pt:63.5,260.0" objectId="0" objectType="1" text=""/>
+					<Shadow objectId="0" objectType="0" transparency="0" tx="0.0" ty="0.0" type="0">
+						<FillFormat objectId="0" objectType="9510" renderStyle="1">
+							<AffineTransformMatrix>
+								<Matrix value="1.0"/>
+								<Matrix value="0.0"/>
+								<Matrix value="0.0"/>
+								<Matrix value="1.0"/>
+								<Matrix value="0.0"/>
+								<Matrix value="0.0"/>
+							</AffineTransformMatrix>
+							<Render color="rgb(0, 0, 0)"/>
+						</FillFormat>
+					</Shadow>
+					<ShapeBasePoint point="Pt:63.5,260.0"/>
+					<Arrow endArrow="0" objectId="0" objectType="500" startArrow="0"/>
+					<LineFormat color="rgb(0, 0, 0)" objectId="0" objectType="505" style="91" width="1.0">
+						<Stroke cap="0" dashPhase="0.0" join="2" miterlimit="0.0" type="0" width="1.0"/>
+					</LineFormat>
+					<FillFormat objectId="0" objectType="9510" renderStyle="1">
+						<AffineTransformMatrix>
+							<Matrix value="1.0"/>
+							<Matrix value="0.0"/>
+							<Matrix value="0.0"/>
+							<Matrix value="1.0"/>
+							<Matrix value="0.0"/>
+							<Matrix value="0.0"/>
+						</AffineTransformMatrix>
+						<Render color="rgba(153, 204, 255, 0.0)"/>
+					</FillFormat>
+					<CurveList objectId="0" objectType="9201" windingRule="0">
+						<Curves>
+							<Curve controlPoint1="Pt:63.25,237.5" controlPoint2="Pt:63.75,282.5" endPoint="Pt:64.0,305.0" objectId="1" startPoint="Pt:63.0,215.0"/>
+						</Curves>
+					</CurveList>
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Invisible" Visible="false" Width="40" X="0" Y="0"/>
+					<FillColor Color="rgba(153, 204, 255, 0.0)" Style="1" Transparency="100" Type="1"/>
+				</SECurveShape>
+				<SECurveShape ActConnector="false" Alpha="1.0" Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DrawBy="2" Foreground="rgb(0, 0, 0)" Height="13" Id="YU.sZfaGAqACAgpw" MetaModelElement="YU.sZfaGAqACAgpx" Model="YU.sZfaGAqACAgpx" ModelElementNameAlignment="9" Name="" NodeName="VPCurveShape" NotUseVisibleBounds="false" ObjectId="2" ObjectType="9096" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" RotateAngle="0.0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="82" X="59" Y="298" ZOrder="14">
+					<FontFormat fontColor="rgb(0, 0, 0)" objectId="0" objectType="520">
+						<Font name="Dialog" size="11" style="0"/>
+					</FontFormat>
+					<Label location="Pt:100.00000000000114,304.5" objectId="0" objectType="1" text=""/>
+					<Shadow objectId="0" objectType="0" transparency="0" tx="0.0" ty="0.0" type="0">
+						<FillFormat objectId="0" objectType="9510" renderStyle="1">
+							<AffineTransformMatrix>
+								<Matrix value="1.0"/>
+								<Matrix value="0.0"/>
+								<Matrix value="0.0"/>
+								<Matrix value="1.0"/>
+								<Matrix value="0.0"/>
+								<Matrix value="0.0"/>
+							</AffineTransformMatrix>
+							<Render color="rgb(0, 0, 0)"/>
+						</FillFormat>
+					</Shadow>
+					<ShapeBasePoint point="Pt:100.00000000000114,304.5"/>
+					<Arrow endArrow="0" objectId="0" objectType="500" startArrow="0"/>
+					<LineFormat color="rgb(0, 0, 0)" objectId="0" objectType="505" style="91" width="1.0">
+						<Stroke cap="0" dashPhase="0.0" join="2" miterlimit="0.0" type="0" width="1.0"/>
+					</LineFormat>
+					<FillFormat objectId="0" objectType="9510" renderStyle="1">
+						<AffineTransformMatrix>
+							<Matrix value="1.0"/>
+							<Matrix value="0.0"/>
+							<Matrix value="0.0"/>
+							<Matrix value="1.0"/>
+							<Matrix value="0.0"/>
+							<Matrix value="0.0"/>
+						</AffineTransformMatrix>
+						<Render color="rgba(153, 204, 255, 0.0)"/>
+					</FillFormat>
+					<CurveList objectId="0" objectType="9201" windingRule="0">
+						<Curves>
+							<Curve controlPoint1="Pt:82.5,304.75" controlPoint2="Pt:117.5,304.25" endPoint="Pt:135.0,304.0" objectId="1" startPoint="Pt:65.0,305.0"/>
+						</Curves>
+					</CurveList>
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Invisible" Visible="false" Width="40" X="0" Y="0"/>
+					<FillColor Color="rgba(153, 204, 255, 0.0)" Style="1" Transparency="100" Type="1"/>
+				</SECurveShape>
+				<SECurveShape ActConnector="false" Alpha="1.0" Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DrawBy="2" Foreground="rgb(0, 0, 0)" Height="37" Id="c4BsZfaGAqACAgp6" MetaModelElement="c4BsZfaGAqACAgp7" Model="c4BsZfaGAqACAgp7" ModelElementNameAlignment="9" Name="" NodeName="VPCurveShape" NotUseVisibleBounds="false" ObjectId="1" ObjectType="9096" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" RotateAngle="0.0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="13" X="127" Y="274" ZOrder="12">
+					<FontFormat fontColor="rgb(0, 0, 0)" objectId="0" objectType="520">
+						<Font name="Dialog" size="11" style="0"/>
+					</FontFormat>
+					<Label location="Pt:133.5,292.5" objectId="0" objectType="1" text=""/>
+					<Shadow objectId="0" objectType="0" transparency="0" tx="0.0" ty="0.0" type="0">
+						<FillFormat objectId="0" objectType="9510" renderStyle="1">
+							<AffineTransformMatrix>
+								<Matrix value="1.0"/>
+								<Matrix value="0.0"/>
+								<Matrix value="0.0"/>
+								<Matrix value="1.1363636363636365"/>
+								<Matrix value="-0.0"/>
+								<Matrix value="-38.18181818181819"/>
+							</AffineTransformMatrix>
+							<Render color="rgb(0, 0, 0)"/>
+						</FillFormat>
+					</Shadow>
+					<ShapeBasePoint point="Pt:133.5,292.5"/>
+					<Arrow endArrow="0" objectId="0" objectType="500" startArrow="0"/>
+					<LineFormat color="rgb(0, 0, 0)" objectId="0" objectType="505" style="91" width="1.0">
+						<Stroke cap="0" dashPhase="0.0" join="2" miterlimit="0.0" type="0" width="1.0"/>
+					</LineFormat>
+					<FillFormat objectId="0" objectType="9510" renderStyle="1">
+						<AffineTransformMatrix>
+							<Matrix value="1.0"/>
+							<Matrix value="0.0"/>
+							<Matrix value="0.0"/>
+							<Matrix value="1.1363636363636365"/>
+							<Matrix value="-0.0"/>
+							<Matrix value="-38.18181818181819"/>
+						</AffineTransformMatrix>
+						<Render color="rgba(153, 204, 255, 0.0)"/>
+					</FillFormat>
+					<CurveList objectId="0" objectType="9201" windingRule="0">
+						<Curves>
+							<Curve controlPoint1="Pt:133.75,298.75" controlPoint2="Pt:133.25,286.25" endPoint="Pt:133.0,280.0" objectId="1" startPoint="Pt:134.0,305.0"/>
+						</Curves>
+					</CurveList>
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Invisible" Visible="false" Width="40" X="0" Y="0"/>
+					<FillColor Color="rgba(153, 204, 255, 0.0)" Style="1" Transparency="100" Type="1"/>
+				</SECurveShape>
+				<SECurveShape ActConnector="true" Alpha="0.0" Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DrawBy="4" Foreground="rgb(0, 0, 0)" Height="112" Id="m1ZcZfaGAqACAhC6" MetaModelElement="m1ZcZfaGAqACAhC7" Model="m1ZcZfaGAqACAhC7" ModelElementNameAlignment="9" Name="" NotUseVisibleBounds="false" ObjectId="0" ObjectType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" RotateAngle="0.0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="112" X="135" Y="507" ZOrder="8">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Invisible" Visible="false" Width="40" X="0" Y="0"/>
+					<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+				</SECurveShape>
+				<SECurveShape ActConnector="true" Alpha="0.0" Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DrawBy="2" Foreground="rgb(0, 0, 0)" Height="25" Id="N1ZcZfaGAqACAhDC" MetaModelElement="t1ZcZfaGAqACAhDD" Model="t1ZcZfaGAqACAhDD" ModelElementNameAlignment="9" Name="" NotUseVisibleBounds="false" ObjectId="0" ObjectType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" RotateAngle="0.0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="12" X="111" Y="512" ZOrder="6">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Invisible" Visible="false" Width="40" X="0" Y="0"/>
+					<FillColor Color="rgba(153, 204, 255, 0.0)" Style="1" Transparency="100" Type="1"/>
+				</SECurveShape>
+				<SECurveShape ActConnector="true" Alpha="0.0" Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DrawBy="2" Foreground="rgb(0, 0, 0)" Height="12" Id="X1ZcZfaGAqACAhDI" MetaModelElement="X1ZcZfaGAqACAhDJ" Model="X1ZcZfaGAqACAhDJ" ModelElementNameAlignment="9" Name="" NotUseVisibleBounds="false" ObjectId="0" ObjectType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" RotateAngle="0.0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="57" X="77" Y="517" ZOrder="4">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Invisible" Visible="false" Width="40" X="0" Y="0"/>
+					<FillColor Color="rgba(153, 204, 255, 0.0)" Style="1" Transparency="100" Type="1"/>
+				</SECurveShape>
+			</Shapes>
+			<Connectors>
+				<InteractionLifeLineLink Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" Foreground="rgb(0, 0, 0)" From="K35YZfaGAqACAh.3" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" HasMultiplicityAShape="false" HasMultiplicityBShape="false" HasRoleAShape="false" HasRoleBShape="false" Height="100" Id="sYP4ZfaGAqACAiDS" MetaModelElement="EYP4ZfaGAqACAiDP" Model="EYP4ZfaGAqACAiDP" ModelElementNameAlignment="9" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" ShowMultiplicityConstraints="false" To="1FJYZfaGAqACAh96" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="703" X="100" Y="175" ZOrder="50">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="20" X="441" Y="225"/>
+					<DiagramElementChildren>
+						<CommunicationMessage Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="iGV0ZfaGAqACAgiH" MetaModelElement="iGV0ZfaGAqACAgiI" Model="iGV0ZfaGAqACAgiI" ModelElementNameAlignment="9" Name="" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="-0.048593933257611965" ParentConnectorHeaderLength="274" ParentConnectorLineLength="16" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="394" Y="179" ZOrder="26">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="34" X="428" Y="859"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationMessage>
+						<CommunicationMessage Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="9Hl0ZfaGAqACAgh5" MetaModelElement="9Hl0ZfaGAqACAgh6" Model="9Hl0ZfaGAqACAgh6" ModelElementNameAlignment="9" Name="removePendingOrder()" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="-0.048593933257611965" ParentConnectorHeaderLength="274" ParentConnectorLineLength="16" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="394" Y="179" ZOrder="28">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="154" X="54" Y="314"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationMessage>
+						<CommunicationMessage Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="CMv4ZfaGAqACAiDV" MetaModelElement="CMv4ZfaGAqACAiDW" Model="CMv4ZfaGAqACAiDW" ModelElementNameAlignment="9" Name="sendPendingOrder()" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="-0.048593933257611965" ParentConnectorHeaderLength="274" ParentConnectorLineLength="16" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="394" Y="179" ZOrder="34">
+							<MessageIds>
+								<Value Value="_tmkZfaGAqACAiJs"/>
+								<Value Value="9Hl0ZfaGAqACAgh5"/>
+								<Value Value="iGV0ZfaGAqACAgiH"/>
+								<Value Value="IqEsZfaGAqACAgn2"/>
+							</MessageIds>
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="140" X="413" Y="179"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationMessage>
+						<CommunicationMessage Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="_tmkZfaGAqACAiJs" MetaModelElement="_tmkZfaGAqACAiJt" Model="_tmkZfaGAqACAiJt" ModelElementNameAlignment="9" Name="" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="-0.048593933257611965" ParentConnectorHeaderLength="274" ParentConnectorLineLength="16" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="394" Y="179" ZOrder="36">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="34" X="347" Y="849"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationMessage>
+						<CommunicationReverseMessage Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="2T7EZfaGAqACAiHf" MetaModelElement="2T7EZfaGAqACAiHg" Model="2T7EZfaGAqACAiHg" ModelElementNameAlignment="9" Name="orderSend" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="-0.0883304404990554" ParentConnectorHeaderLength="332" ParentConnectorLineLength="24" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="391" Y="219" ZOrder="40">
+							<MessageIds>
+								<Value Value="raaMZfaGAqACAgga"/>
+								<Value Value="W7EsZfaGAqACAgoE"/>
+								<Value Value="GGfsZfaGAqACAgzi"/>
+							</MessageIds>
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="89" X="377" Y="279"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationReverseMessage>
+						<CommunicationReverseMessage Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="raaMZfaGAqACAgga" MetaModelElement="raaMZfaGAqACAggb" Model="raaMZfaGAqACAggb" ModelElementNameAlignment="9" Name="" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="-0.0883304404990554" ParentConnectorHeaderLength="332" ParentConnectorLineLength="24" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="391" Y="219" ZOrder="24">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="41" X="391" Y="843"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationReverseMessage>
+						<CommunicationMessage Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="IqEsZfaGAqACAgn2" MetaModelElement="IqEsZfaGAqACAgn3" Model="IqEsZfaGAqACAgn3" ModelElementNameAlignment="9" Name="" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="-0.048593933257611965" ParentConnectorHeaderLength="274" ParentConnectorLineLength="16" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="394" Y="179" ZOrder="22">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="41" X="428" Y="873"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationMessage>
+						<CommunicationReverseMessage Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="W7EsZfaGAqACAgoE" MetaModelElement="W7EsZfaGAqACAgoF" Model="W7EsZfaGAqACAgoF" ModelElementNameAlignment="9" Name="" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="-0.0883304404990554" ParentConnectorHeaderLength="332" ParentConnectorLineLength="24" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="391" Y="219" ZOrder="20">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="41" X="391" Y="857"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationReverseMessage>
+						<CommunicationReverseMessage Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="GGfsZfaGAqACAgzi" MetaModelElement="mGfsZfaGAqACAgzj" Model="mGfsZfaGAqACAgzj" ModelElementNameAlignment="9" Name="" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="-0.0883304404990554" ParentConnectorHeaderLength="332" ParentConnectorLineLength="24" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="391" Y="219" ZOrder="10">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="41" X="391" Y="871"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationReverseMessage>
+					</DiagramElementChildren>
+					<Points>
+						<Point X="150.0" Y="225.0"/>
+						<Point X="753.0" Y="225.0"/>
+					</Points>
+				</InteractionLifeLineLink>
+				<InteractionLifeLineLink Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" Foreground="rgb(0, 0, 0)" From="dGPYZfaGAqACAiAB" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" HasMultiplicityAShape="false" HasMultiplicityBShape="false" HasRoleAShape="false" HasRoleBShape="false" Height="411" Id="hLiEZfaGAqACAiFC" MetaModelElement="uLiEZfaGAqACAiE_" Model="uLiEZfaGAqACAiE_" ModelElementNameAlignment="9" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" ShowMultiplicityConstraints="false" To="1FJYZfaGAqACAh96" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="100" X="742" Y="202" ZOrder="52">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="20" X="792" Y="408"/>
+					<DiagramElementChildren>
+						<CommunicationMessage Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="AZ9EZfaGAqACAiHF" MetaModelElement="AZ9EZfaGAqACAiHG" Model="AZ9EZfaGAqACAiHG" ModelElementNameAlignment="9" Name="getDeliveryPrice()" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="-0.10768987083282067" ParentConnectorHeaderLength="88" ParentConnectorLineLength="24" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="738" Y="445" ZOrder="32">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="127" X="655" Y="431"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationMessage>
+						<CommunicationReverseMessage Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="856kZfaGAqACAiJb" MetaModelElement="856kZfaGAqACAiJc" Model="856kZfaGAqACAiJc" ModelElementNameAlignment="9" Name="" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="-0.30345991143982154" ParentConnectorHeaderLength="212" ParentConnectorLineLength="31" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="793" Y="434" ZOrder="38">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="34" X="812" Y="848"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationReverseMessage>
+						<CommunicationReverseMessage Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="NH2EZfaGAqACAiFj" MetaModelElement="NH2EZfaGAqACAiFk" Model="NH2EZfaGAqACAiFk" ModelElementNameAlignment="9" Name="getDeliveryPrice()" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="-0.30636715261604675" ParentConnectorHeaderLength="212" ParentConnectorLineLength="31" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="793" Y="434" ZOrder="42">
+							<MessageIds>
+								<Value Value="856kZfaGAqACAiJb"/>
+							</MessageIds>
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="127" X="799" Y="427"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationReverseMessage>
+					</DiagramElementChildren>
+					<Points>
+						<Point X="792.0" Y="563.0"/>
+						<Point X="792.0" Y="252.0"/>
+					</Points>
+				</InteractionLifeLineLink>
+				<InteractionLifeLineLink Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" Foreground="rgb(0, 0, 0)" From="1FJYZfaGAqACAh96" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" HasMultiplicityAShape="false" HasMultiplicityBShape="false" HasRoleAShape="false" HasRoleBShape="false" Height="451" Id="luOkZfaGAqACAiKB" MetaModelElement="JuOkZfaGAqACAiJ." Model="JuOkZfaGAqACAiJ." ModelElementNameAlignment="9" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" ShowMultiplicityConstraints="false" To="dGPYZfaGAqACAiAB" ToConnectType="0" ToPinType="2" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="293" X="518" Y="192" ZOrder="54">
+					<ToPinRatio X="-0.03333333507180214" Y="0.5"/>
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="20" X="596" Y="411"/>
+					<DiagramElementChildren>
+						<CommunicationMessage Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="nO3kZfaGAqACAiMK" MetaModelElement="nO3kZfaGAqACAiML" Model="nO3kZfaGAqACAiML" ModelElementNameAlignment="9" Name="sendOrder()" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.19362199285594528" ParentConnectorHeaderLength="360" ParentConnectorLineLength="30" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="507" Y="387" ZOrder="30">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="98" X="455" Y="373"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationMessage>
+						<CommunicationReverseMessage Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="60" Id="PodcZfaGAqACAhHQ" MetaModelElement="vodcZfaGAqACAhHR" Model="vodcZfaGAqACAhHR" ModelElementNameAlignment="9" Name="" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.9709152322821106" ParentConnectorHeaderLength="571" ParentConnectorLineLength="424" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="60" X="113" Y="259" ZOrder="2">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="14" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="41" X="271" Y="855"/>
+							<FillColor Color="rgb(153, 204, 255)" Style="1" Transparency="0" Type="1"/>
+						</CommunicationReverseMessage>
+					</DiagramElementChildren>
+					<Points>
+						<Point X="753.0" Y="242.0"/>
+						<Point X="568.0" Y="242.0"/>
+						<Point X="568.0" Y="580.0"/>
+						<Point X="568.0" Y="252.0"/>
+						<Point X="568.0" Y="580.0"/>
+						<Point X="761.0" Y="580.0"/>
+						<Point X="761.0" Y="593.0"/>
+					</Points>
+				</InteractionLifeLineLink>
+			</Connectors>
+		</CommunicationDiagram>
+	</Diagrams>
+</Project>
